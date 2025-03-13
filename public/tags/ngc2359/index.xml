@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ngc2359 on Suburban Backyard Astro Sights</title>
-    <link>https://hgastro.github.io/tags/ngc2359/</link>
+    <link>http://192.168.1.199:4000/tags/ngc2359/</link>
     <description>Recent content in Ngc2359 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/ngc2359/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/ngc2359/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Thor&#39;s Helmet</title>
-      <link>https://hgastro.github.io/posts/2023-01-22-thors-helmet/</link>
+      <link>http://192.168.1.199:4000/posts/2023-01-22-thors-helmet/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2023-01-22-thors-helmet/</guid>
+      <guid>http://192.168.1.199:4000/posts/2023-01-22-thors-helmet/</guid>
       <description>&lt;p&gt;I never cease to be amazed at the imagination shown by astronomers over the years in coming up with names to attach to celestial nebulae.  Here is a look from last week at Thor&amp;rsquo;s Helmet, a hat shaped emission nebula with wing-like appendages, more formally known as NGC 2359.&lt;/p&gt;</description>
       
     </item>

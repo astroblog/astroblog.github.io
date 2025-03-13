@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ngc7380 on Suburban Backyard Astro Sights</title>
-    <link>https://hgastro.github.io/tags/ngc7380/</link>
+    <link>http://192.168.1.199:4000/tags/ngc7380/</link>
     <description>Recent content in Ngc7380 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/ngc7380/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/ngc7380/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Wizard Nebula</title>
-      <link>https://hgastro.github.io/posts/2023-11-03-wizard-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2023-11-03-wizard-nebula/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2023-11-03-wizard-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2023-11-03-wizard-nebula/</guid>
       <description>&lt;p&gt;The Wizard Nebula is a cosmic cloud surrounding open star cluster NGC 7380. Over the years it has earned its sorcerous nickname because of its similarity in appearance to a medieval magician in a pointed hat. (It does take a little imagination!)&lt;/p&gt;</description>
       
     </item>

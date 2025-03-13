@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ngc4555 on Suburban Backyard Astro Sights</title>
-    <link>https://hgastro.github.io/tags/ngc4555/</link>
+    <link>http://192.168.1.199:4000/tags/ngc4555/</link>
     <description>Recent content in Ngc4555 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/ngc4555/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/ngc4555/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Needle Galaxy </title>
-      <link>https://hgastro.github.io/posts/2020-06-05-the-needle-galaxy/</link>
+      <link>http://192.168.1.199:4000/posts/2020-06-05-the-needle-galaxy/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-06-05-the-needle-galaxy/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-06-05-the-needle-galaxy/</guid>
       <description>&lt;p&gt;NGC 4565, the Needle Galaxy, is one of the most prominent and famous edge-on spiral galaxies in the sky.&lt;/p&gt;</description>
       
     </item>

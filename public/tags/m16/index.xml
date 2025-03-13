@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M16 on Suburban Backyard Astro Sights</title>
-    <link>https://hgastro.github.io/tags/m16/</link>
+    <link>http://192.168.1.199:4000/tags/m16/</link>
     <description>Recent content in M16 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/m16/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/m16/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Eagle Nebula</title>
-      <link>https://hgastro.github.io/posts/2023-09-15-eagle-nebula-revisited/</link>
+      <link>http://192.168.1.199:4000/posts/2023-09-15-eagle-nebula-revisited/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2023-09-15-eagle-nebula-revisited/</guid>
+      <guid>http://192.168.1.199:4000/posts/2023-09-15-eagle-nebula-revisited/</guid>
       <description>&lt;p&gt;The Eagle Nebula M16, one of the brightest night sky nebulae, is an area where stars are actively forming. It is filled with dark regions and globules, including a peculiar dark column named the &amp;ldquo;Stellar Spire&amp;rdquo;.
 Of special note are the &amp;ldquo;Pillars of Creation&amp;rdquo; made famous by an early (1995) picture from the Hubble Space Telescope.
 The pillars and spire are collapsing clouds of dust and gas being sculpted by intense starlight from  newly formed hot stars.&lt;/p&gt;</description>
@@ -23,10 +23,10 @@ The pillars and spire are collapsing clouds of dust and gas being sculpted by in
     
     <item>
       <title>The Eagle Nebula</title>
-      <link>https://hgastro.github.io/posts/2020-07-03-the-eagle-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2020-07-03-the-eagle-nebula/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-07-03-the-eagle-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-07-03-the-eagle-nebula/</guid>
       <description>&lt;p&gt;M16, the Eagle Nebula, is one of several spectacular objects now coming into view in the summer evening sky. It has been made famous by the Hubble Space Telescope &amp;ldquo;Pillars of Creation&amp;rdquo; photograph - easily the most ubiquitous of all Hubble images.&lt;/p&gt;</description>
       
     </item>

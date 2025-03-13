@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M27 on Suburban Backyard Astro Sights</title>
-    <link>https://hgastro.github.io/tags/m27/</link>
+    <link>http://192.168.1.199:4000/tags/m27/</link>
     <description>Recent content in M27 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/m27/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/m27/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Dumbbell Nebula</title>
-      <link>https://hgastro.github.io/posts/2024-11-01-dumbbell-nebula-revisited/</link>
+      <link>http://192.168.1.199:4000/posts/2024-11-01-dumbbell-nebula-revisited/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-11-01-dumbbell-nebula-revisited/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-11-01-dumbbell-nebula-revisited/</guid>
       <description>&lt;p&gt;The Dumbbell Nebula, also known as M27, is a stunning cloud of gas and dust, located about 1,360 light-years away from Earth. One of the brightest and most beautiful nebulae in the night sky, it is especially known for its vibrant colors and distinctive shape, which resembles a dumbbell or an hourglass.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Dumbbell Nebula</title>
-      <link>https://hgastro.github.io/posts/2020-09-01-dumbbell-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2020-09-01-dumbbell-nebula/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-09-01-dumbbell-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-09-01-dumbbell-nebula/</guid>
       <description>&lt;p&gt;The Dumbbell Nebula M27 (also known as Apple Core Nebula) is a typical planetary nebula about 1300 light-years from us. It was the first such object to be discovered &amp;ndash; by Charles Messier in 1764.&lt;/p&gt;</description>
       
     </item>

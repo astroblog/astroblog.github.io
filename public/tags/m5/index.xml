@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M5 on Suburban Backyard Astro Sights</title>
-    <link>https://hgastro.github.io/tags/m5/</link>
+    <link>http://192.168.1.199:4000/tags/m5/</link>
     <description>Recent content in M5 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/m5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/m5/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>That&#39;s a whole LOT of stars</title>
-      <link>https://hgastro.github.io/posts/2024-06-29-thats-a-lot-of-stars/</link>
+      <link>http://192.168.1.199:4000/posts/2024-06-29-thats-a-lot-of-stars/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-06-29-thats-a-lot-of-stars/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-06-29-thats-a-lot-of-stars/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve only shown globular clusters twice before and the last time was two years ago.  It&amp;rsquo;s past time for a fresh look.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Globular Clusters</title>
-      <link>https://hgastro.github.io/posts/2020-05-26-globular-clusters/</link>
+      <link>http://192.168.1.199:4000/posts/2020-05-26-globular-clusters/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-05-26-globular-clusters/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-05-26-globular-clusters/</guid>
       <description>&lt;p&gt;Here are four representative Globular clusters.   Globular Clusters are gigantic spherical agglomerations of stars that surround the nucleus of our Milky Way galaxy.  Each globular cluster from hundreds of thousands to several million stars, and astronomers believe that the stars is most globular clusters are among the oldest stars in existance, perhaps as much as 10 billion years old.&lt;/p&gt;</description>
       
     </item>

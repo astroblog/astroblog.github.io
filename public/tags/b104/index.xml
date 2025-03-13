@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B104 on Suburban Backyard Astro Sights</title>
-    <link>https://hgastro.github.io/tags/b104/</link>
+    <link>http://192.168.1.199:4000/tags/b104/</link>
     <description>Recent content in B104 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/b104/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/b104/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Holes in the Sky????</title>
-      <link>https://hgastro.github.io/posts/2022-08-30-holes-in-the-sky/</link>
+      <link>http://192.168.1.199:4000/posts/2022-08-30-holes-in-the-sky/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2022-08-30-holes-in-the-sky/</guid>
+      <guid>http://192.168.1.199:4000/posts/2022-08-30-holes-in-the-sky/</guid>
       <description>&lt;p&gt;And now, for something completely different. . .&lt;/p&gt;</description>
       
     </item>

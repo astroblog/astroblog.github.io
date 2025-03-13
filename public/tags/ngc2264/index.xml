@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ngc2264 on Suburban Backyard Astro Sights</title>
-    <link>https://hgastro.github.io/tags/ngc2264/</link>
+    <link>http://192.168.1.199:4000/tags/ngc2264/</link>
     <description>Recent content in Ngc2264 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/ngc2264/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/ngc2264/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Christmas Tree Cluster</title>
-      <link>https://hgastro.github.io/posts/2020-12-25-christmas-tree-cluster-redux/</link>
+      <link>http://192.168.1.199:4000/posts/2020-12-25-christmas-tree-cluster-redux/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-12-25-christmas-tree-cluster-redux/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-12-25-christmas-tree-cluster-redux/</guid>
       <description>&lt;p&gt;Merry Christmas!  In keeping with the holiday, here is a fresh look at one of my favorite objects, the
 Christmas Tree Cluster, NGC 2264.&lt;/p&gt;</description>
       
@@ -22,10 +22,10 @@ Christmas Tree Cluster, NGC 2264.&lt;/p&gt;</description>
     
     <item>
       <title>The Christmas Tree Star Cluster</title>
-      <link>https://hgastro.github.io/posts/2020-03-03-christmas-tree-cluster/</link>
+      <link>http://192.168.1.199:4000/posts/2020-03-03-christmas-tree-cluster/</link>
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-03-03-christmas-tree-cluster/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-03-03-christmas-tree-cluster/</guid>
       <description>&lt;p&gt;The Christmas Tree Cluster was named for its triangular shape, formed by a cluster of very young stars,  that looks like a tree in visible light. The bright variable star S Monocerotis (near the bottom) marks the base of the Christmas tree and lights up the nearby nebulosity.&lt;/p&gt;</description>
       
     </item>

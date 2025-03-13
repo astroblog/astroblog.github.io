@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suburban Backyard Astro Sights</title>
-    <link>https://hgastro.github.io/</link>
+    <link>http://192.168.1.199:4000/</link>
     <description>Recent content on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Skull and Crossbones Nebula</title>
-      <link>https://hgastro.github.io/posts/2025-02-15-skull-and-crossbones-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2025-02-15-skull-and-crossbones-nebula/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2025-02-15-skull-and-crossbones-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2025-02-15-skull-and-crossbones-nebula/</guid>
       <description>&lt;p&gt;NGC 2467, also known as the &amp;ldquo;Skull and Crossbones Nebula,&amp;rdquo; is a region where new stars are being born. Some people think it looks like a grinning skull, while others see the face of a colorful mandrill.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>About Me </title>
-      <link>https://hgastro.github.io/about/</link>
+      <link>http://192.168.1.199:4000/about/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/about/</guid>
+      <guid>http://192.168.1.199:4000/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Test Page</title>
-      <link>https://hgastro.github.io/testpage/</link>
+      <link>http://192.168.1.199:4000/testpage/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/testpage/</guid>
+      <guid>http://192.168.1.199:4000/testpage/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The Lobster Nebula</title>
-      <link>https://hgastro.github.io/posts/2024-12-14-the-lobster-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2024-12-14-the-lobster-nebula/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-12-14-the-lobster-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-12-14-the-lobster-nebula/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think it will overly tax your imagination to see why NGC 6357 is nicknamed the Lobster Nebula. Or perhaps you think it  resemblances a crab more?&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Butterfly Nebula</title>
-      <link>https://hgastro.github.io/posts/2024-12-01-butterfly-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2024-12-01-butterfly-nebula/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-12-01-butterfly-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-12-01-butterfly-nebula/</guid>
       <description>&lt;p&gt;Near the bright star Sadr (grossly over exposed in the image) at the center of the Northern Cross lies the Butterfly Nebula. Its nickname comes from its intricate shape that somewhat resembles a butterfly with its delicate wings outstretched.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Cat&#39;s Paw Nebula</title>
-      <link>https://hgastro.github.io/posts/2024-11-17-cats-paw-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2024-11-17-cats-paw-nebula/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-11-17-cats-paw-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-11-17-cats-paw-nebula/</guid>
       <description>&lt;p&gt;The lesser-known Cat&amp;rsquo;s Paw Nebula (officially NGC 6334) is a region teeming with activity &amp;ndash;
 another stellar nursery where stars are born from swirling contracting clouds of gas and dust.&lt;/p&gt;</description>
       
@@ -72,20 +72,20 @@ another stellar nursery where stars are born from swirling contracting clouds of
     
     <item>
       <title>The Dumbbell Nebula</title>
-      <link>https://hgastro.github.io/posts/2024-11-01-dumbbell-nebula-revisited/</link>
+      <link>http://192.168.1.199:4000/posts/2024-11-01-dumbbell-nebula-revisited/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-11-01-dumbbell-nebula-revisited/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-11-01-dumbbell-nebula-revisited/</guid>
       <description>&lt;p&gt;The Dumbbell Nebula, also known as M27, is a stunning cloud of gas and dust, located about 1,360 light-years away from Earth. One of the brightest and most beautiful nebulae in the night sky, it is especially known for its vibrant colors and distinctive shape, which resembles a dumbbell or an hourglass.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Whirlpool Galaxy</title>
-      <link>https://hgastro.github.io/posts/2024-08-30-whirlpool-galaxy-revisited/</link>
+      <link>http://192.168.1.199:4000/posts/2024-08-30-whirlpool-galaxy-revisited/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-08-30-whirlpool-galaxy-revisited/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-08-30-whirlpool-galaxy-revisited/</guid>
       <description>&lt;p&gt;The Whirlpool Galaxy, also known as M51,
 is a magnificent face-on spiral galaxy.
 It is interacting with a smaller companion, NGC 5195, a dwarf galaxy connected to its larger neighbor by a tidal bridge of dust. The bridge is visible in the image silhouetted against the central region of the smaller galaxy.&lt;/p&gt;</description>
@@ -94,30 +94,30 @@ It is interacting with a smaller companion, NGC 5195, a dwarf galaxy connected t
     
     <item>
       <title>That&#39;s a whole LOT of stars</title>
-      <link>https://hgastro.github.io/posts/2024-06-29-thats-a-lot-of-stars/</link>
+      <link>http://192.168.1.199:4000/posts/2024-06-29-thats-a-lot-of-stars/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-06-29-thats-a-lot-of-stars/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-06-29-thats-a-lot-of-stars/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve only shown globular clusters twice before and the last time was two years ago.  It&amp;rsquo;s past time for a fresh look.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Spiral Galaxy NGC 2903</title>
-      <link>https://hgastro.github.io/posts/2024-06-01-spiral-galaxy-ngc-2903/</link>
+      <link>http://192.168.1.199:4000/posts/2024-06-01-spiral-galaxy-ngc-2903/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-06-01-spiral-galaxy-ngc-2903/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-06-01-spiral-galaxy-ngc-2903/</guid>
       <description>&lt;p&gt;One of the brighter nearby galaxies, NGC 2903 was somehow missed by comet hunter Charles Messier when he compiled his famous list of objects not to be mistaken for comets.  Nonetheless, this barred spiral is an attractive telescopic object.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Crab Nebula</title>
-      <link>https://hgastro.github.io/posts/2024-04-17-crab-nebula-revisited/</link>
+      <link>http://192.168.1.199:4000/posts/2024-04-17-crab-nebula-revisited/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-04-17-crab-nebula-revisited/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-04-17-crab-nebula-revisited/</guid>
       <description>&lt;p&gt;M1, the Crab Nebula, is the debris left by the death of a massive star when it exploded in a brilliant flash of light and energy nearly a thousand years ago.
 We can see many intricate details in the remains left by that supernova &amp;ndash; wispy tendrils of gas and dust intertwine illuminated by the intense radiation emitted by the pulsar at its core.&lt;/p&gt;</description>
       
@@ -125,40 +125,40 @@ We can see many intricate details in the remains left by that supernova &amp;nda
     
     <item>
       <title>The Skull Nebula</title>
-      <link>https://hgastro.github.io/posts/2024-03-22-the-skull-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2024-03-22-the-skull-nebula/</link>
       <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-03-22-the-skull-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-03-22-the-skull-nebula/</guid>
       <description>&lt;p&gt;The Skull Nebula is another example of the remains left by a dying Sun-like star that has cast away its outer layers in a cosmic farewell, leaving behind hot, glowing complex shells of ionized gas.  I&amp;rsquo;ve shared examples before of these so-called planetary nebulae, but the Skull is a particularly appropriate nickname for such an object!&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Jellyfish Nebula</title>
-      <link>https://hgastro.github.io/posts/2024-03-01-the-jellyfish-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2024-03-01-the-jellyfish-nebula/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-03-01-the-jellyfish-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-03-01-the-jellyfish-nebula/</guid>
       <description>&lt;p&gt;The Jellyfish Nebula gets its name from its striking resemblance to the graceful tendrils of a jellyfish swimming through the cosmic sea. It is a testament to the dynamic and chaotic nature of the universe, where destruction begets creation on a mind boggling scale.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Fossil Footprint Nebula</title>
-      <link>https://hgastro.github.io/posts/2024-02-02-fossil-footprint-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2024-02-02-fossil-footprint-nebula/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-02-02-fossil-footprint-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-02-02-fossil-footprint-nebula/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s an image of NGC 1491 (also designated Sharpless Sh2-206), a faint emission nebula that has an interesting shape.  Some sources give it the name Fossil Footprint nebula.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Andromeda Galaxy</title>
-      <link>https://hgastro.github.io/posts/2024-01-19-andromeda-galaxy-revisited/</link>
+      <link>http://192.168.1.199:4000/posts/2024-01-19-andromeda-galaxy-revisited/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-01-19-andromeda-galaxy-revisited/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-01-19-andromeda-galaxy-revisited/</guid>
       <description>&lt;p&gt;The Andromeda Galaxy (M31) is the closest spiral galaxy to our own Milky Way.
 It is visible to the naked eye as a faint smudge on a dark moonless night; it is impressive in a small telescope; but it takes a long exposure photograph to reveal its full extent and structure.&lt;/p&gt;</description>
       
@@ -166,10 +166,10 @@ It is visible to the naked eye as a faint smudge on a dark moonless night; it is
     
     <item>
       <title>The Helix Nebula</title>
-      <link>https://hgastro.github.io/posts/2024-01-01-helix-revisited/</link>
+      <link>http://192.168.1.199:4000/posts/2024-01-01-helix-revisited/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-01-01-helix-revisited/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-01-01-helix-revisited/</guid>
       <description>&lt;p&gt;The Helix Nebula is a stunning example of a planetary nebula -— a glowing shell of ionized gas expelled by a dying star.
 The star expels its outer layers of gas, leaving only its small, hot core. Radiation from the core energizes that gas, causing it to glow in a rainbow of colors. About 650 light-years away, the Helix is one of the closest and brightest such nebulae.&lt;/p&gt;</description>
       
@@ -177,30 +177,30 @@ The star expels its outer layers of gas, leaving only its small, hot core. Radia
     
     <item>
       <title>The Omega Nebula</title>
-      <link>https://hgastro.github.io/posts/2023-11-17-omega-swan/</link>
+      <link>http://192.168.1.199:4000/posts/2023-11-17-omega-swan/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2023-11-17-omega-swan/</guid>
+      <guid>http://192.168.1.199:4000/posts/2023-11-17-omega-swan/</guid>
       <description>&lt;p&gt;M17, another vast region of interstellar gas and dust, is most commonly known as the Omega Nebula or the Swan Nebula. The complex measures 15 light-years across and is about 5,000 light-years from Earth.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Wizard Nebula</title>
-      <link>https://hgastro.github.io/posts/2023-11-03-wizard-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2023-11-03-wizard-nebula/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2023-11-03-wizard-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2023-11-03-wizard-nebula/</guid>
       <description>&lt;p&gt;The Wizard Nebula is a cosmic cloud surrounding open star cluster NGC 7380. Over the years it has earned its sorcerous nickname because of its similarity in appearance to a medieval magician in a pointed hat. (It does take a little imagination!)&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Tulip Nebula</title>
-      <link>https://hgastro.github.io/posts/2023-10-15-the-tulip-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2023-10-15-the-tulip-nebula/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2023-10-15-the-tulip-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2023-10-15-the-tulip-nebula/</guid>
       <description>&lt;p&gt;The Tulip Nebula is a glowing cloud of interstellar gas and dust and gets its name from the flower it appears to resemble in photographs.
 While a pretty sight itself, the Tulip has an interesting neighbor.&lt;/p&gt;</description>
       
@@ -208,20 +208,20 @@ While a pretty sight itself, the Tulip has an interesting neighbor.&lt;/p&gt;</d
     
     <item>
       <title>The Trifid Nebula</title>
-      <link>https://hgastro.github.io/posts/2023-10-01-trifid-nebula-revisited/</link>
+      <link>http://192.168.1.199:4000/posts/2023-10-01-trifid-nebula-revisited/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2023-10-01-trifid-nebula-revisited/</guid>
+      <guid>http://192.168.1.199:4000/posts/2023-10-01-trifid-nebula-revisited/</guid>
       <description>&lt;p&gt;The Trifid Nebula, M20, is a beautiful gaseous cloud within which new stars are being born.  It is one of several spectacular telescopic sights embedded in the summer and autumn Milky Way.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Eagle Nebula</title>
-      <link>https://hgastro.github.io/posts/2023-09-15-eagle-nebula-revisited/</link>
+      <link>http://192.168.1.199:4000/posts/2023-09-15-eagle-nebula-revisited/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2023-09-15-eagle-nebula-revisited/</guid>
+      <guid>http://192.168.1.199:4000/posts/2023-09-15-eagle-nebula-revisited/</guid>
       <description>&lt;p&gt;The Eagle Nebula M16, one of the brightest night sky nebulae, is an area where stars are actively forming. It is filled with dark regions and globules, including a peculiar dark column named the &amp;ldquo;Stellar Spire&amp;rdquo;.
 Of special note are the &amp;ldquo;Pillars of Creation&amp;rdquo; made famous by an early (1995) picture from the Hubble Space Telescope.
 The pillars and spire are collapsing clouds of dust and gas being sculpted by intense starlight from  newly formed hot stars.&lt;/p&gt;</description>
@@ -230,20 +230,20 @@ The pillars and spire are collapsing clouds of dust and gas being sculpted by in
     
     <item>
       <title>The Rosette Nebula</title>
-      <link>https://hgastro.github.io/posts/2023-05-08-rosette-nebula-take-2/</link>
+      <link>http://192.168.1.199:4000/posts/2023-05-08-rosette-nebula-take-2/</link>
       <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2023-05-08-rosette-nebula-take-2/</guid>
+      <guid>http://192.168.1.199:4000/posts/2023-05-08-rosette-nebula-take-2/</guid>
       <description>&lt;p&gt;The Rosette Nebula is one of the more spectacular nebulae in the night sky. It is a huge cloud of glowing gas heated and ionized by stars created only about five million years ago when a giant molecular cloud collapsed to form a new cluster of stars.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Odd Couple - Galaxies M82 and M81</title>
-      <link>https://hgastro.github.io/posts/2023-04-19-odd-couple-m81-and-m82/</link>
+      <link>http://192.168.1.199:4000/posts/2023-04-19-odd-couple-m81-and-m82/</link>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2023-04-19-odd-couple-m81-and-m82/</guid>
+      <guid>http://192.168.1.199:4000/posts/2023-04-19-odd-couple-m81-and-m82/</guid>
       <description>&lt;p&gt;These two spectacular galaxies are neighbors, located near the bowl of the big dipper.
 M82 is an irregular edge-on galaxy that shows red gas and dark clouds. Its neighbor M81 is face-on, and displays stately grand spiral arms.&lt;/p&gt;</description>
       
@@ -251,30 +251,30 @@ M82 is an irregular edge-on galaxy that shows red gas and dark clouds. Its neigh
     
     <item>
       <title>Thor&#39;s Helmet</title>
-      <link>https://hgastro.github.io/posts/2023-01-22-thors-helmet/</link>
+      <link>http://192.168.1.199:4000/posts/2023-01-22-thors-helmet/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2023-01-22-thors-helmet/</guid>
+      <guid>http://192.168.1.199:4000/posts/2023-01-22-thors-helmet/</guid>
       <description>&lt;p&gt;I never cease to be amazed at the imagination shown by astronomers over the years in coming up with names to attach to celestial nebulae.  Here is a look from last week at Thor&amp;rsquo;s Helmet, a hat shaped emission nebula with wing-like appendages, more formally known as NGC 2359.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Triangulum Galaxy</title>
-      <link>https://hgastro.github.io/posts/2022-12-19-triangulum-galaxy/</link>
+      <link>http://192.168.1.199:4000/posts/2022-12-19-triangulum-galaxy/</link>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2022-12-19-triangulum-galaxy/</guid>
+      <guid>http://192.168.1.199:4000/posts/2022-12-19-triangulum-galaxy/</guid>
       <description>&lt;p&gt;The Triangulum Galaxy (also known as the Pinwheel Galaxy or M33) is the third largest galaxy in our Local Group of galaxies (after the Milky Way and Andromeda). It is about three million lightyears away from us.  Hence we enjoy a better view of it than any other galaxy except Andromeda.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Pelican Nebula</title>
-      <link>https://hgastro.github.io/posts/2022-11-18-pelican-nebula-take-2/</link>
+      <link>http://192.168.1.199:4000/posts/2022-11-18-pelican-nebula-take-2/</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2022-11-18-pelican-nebula-take-2/</guid>
+      <guid>http://192.168.1.199:4000/posts/2022-11-18-pelican-nebula-take-2/</guid>
       <description>&lt;p&gt;The Pelican Nebula is an emission nebula whose outlines somewhat resemble the namesake bird.
 The nebula’s appearance is defined by dark dust clouds that outline the pelican’s long bill and eye, and by bright clouds of ionized gas that form the curved shape of the pelican’s head and neck. The pelican&amp;rsquo;s body and wing are formed by a complex mixture of bright nebulosity intermixed with dark dust clouds, as is the pouch hanging down from the bill.&lt;/p&gt;</description>
       
@@ -282,30 +282,30 @@ The nebula’s appearance is defined by dark dust clouds that outline the pelica
     
     <item>
       <title>The Elephant&#39;s Trunk Nebula</title>
-      <link>https://hgastro.github.io/posts/2022-11-05-elephant-trunk/</link>
+      <link>http://192.168.1.199:4000/posts/2022-11-05-elephant-trunk/</link>
       <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2022-11-05-elephant-trunk/</guid>
+      <guid>http://192.168.1.199:4000/posts/2022-11-05-elephant-trunk/</guid>
       <description>&lt;p&gt;The Elephant&amp;rsquo;s Trunk Nebula (IC 1396A) is a twisted sinuous structure of interstellar gas and dust that we see back-lit and ionized by intense radiation coming from a nearby massive star. Red light from ionized hydrogen makes it stand out amid the other streams and swirls of dark nebulae.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Iris Nebula</title>
-      <link>https://hgastro.github.io/posts/2022-10-15-iris-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2022-10-15-iris-nebula/</link>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2022-10-15-iris-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2022-10-15-iris-nebula/</guid>
       <description>&lt;p&gt;The Iris Nebula NGC 7023 looks like a celestial blossom. It is a bright reflection nebula whose trademark glowing blue color results from the scattered light of its central star.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Pushing my limits - spotting the James Webb Space Telescope</title>
-      <link>https://hgastro.github.io/posts/2022-10-01-jwst/</link>
+      <link>http://192.168.1.199:4000/posts/2022-10-01-jwst/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2022-10-01-jwst/</guid>
+      <guid>http://192.168.1.199:4000/posts/2022-10-01-jwst/</guid>
       <description>&lt;p&gt;Ever since NASA launched their new James Webb Space Telescope last December I&amp;rsquo;ve been interested
 in seeing if it was possible to spot it using my 8-inch backyard telescope and camera.  Spoiler alert: Yes I can!&lt;/p&gt;</description>
       
@@ -313,50 +313,50 @@ in seeing if it was possible to spot it using my 8-inch backyard telescope and c
     
     <item>
       <title>The Cocoon Nebula</title>
-      <link>https://hgastro.github.io/posts/2022-09-15-cocoon-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2022-09-15-cocoon-nebula/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2022-09-15-cocoon-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2022-09-15-cocoon-nebula/</guid>
       <description>&lt;p&gt;The Cocoon Nebula, IC 5146, is a cluster of stars involved in a bright emission/reflection nebula riddled by filaments of dark nebula.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Holes in the Sky????</title>
-      <link>https://hgastro.github.io/posts/2022-08-30-holes-in-the-sky/</link>
+      <link>http://192.168.1.199:4000/posts/2022-08-30-holes-in-the-sky/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2022-08-30-holes-in-the-sky/</guid>
+      <guid>http://192.168.1.199:4000/posts/2022-08-30-holes-in-the-sky/</guid>
       <description>&lt;p&gt;And now, for something completely different. . .&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Orion Nebula and the Running Man</title>
-      <link>https://hgastro.github.io/posts/2022-03-01-orion-nebula-and-running-man/</link>
+      <link>http://192.168.1.199:4000/posts/2022-03-01-orion-nebula-and-running-man/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2022-03-01-orion-nebula-and-running-man/</guid>
+      <guid>http://192.168.1.199:4000/posts/2022-03-01-orion-nebula-and-running-man/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s a fresh look at the wonderful Orion Nebula complex (M42 and M43) and the neighboring Running Man. Although I have shown both before, this new view shows how they are related to each other.  This is also a longer exposure than before and has been processed to reveal additional subtle detail.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>A facelift for our second anniversary</title>
-      <link>https://hgastro.github.io/posts/2022-02-03-facelift-for-anniversary/</link>
+      <link>http://192.168.1.199:4000/posts/2022-02-03-facelift-for-anniversary/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2022-02-03-facelift-for-anniversary/</guid>
+      <guid>http://192.168.1.199:4000/posts/2022-02-03-facelift-for-anniversary/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>The Horsehead and Flame - the big picture</title>
-      <link>https://hgastro.github.io/posts/2022-01-30-horsehead-and-flame---the-big-picture/</link>
+      <link>http://192.168.1.199:4000/posts/2022-01-30-horsehead-and-flame---the-big-picture/</link>
       <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2022-01-30-horsehead-and-flame---the-big-picture/</guid>
+      <guid>http://192.168.1.199:4000/posts/2022-01-30-horsehead-and-flame---the-big-picture/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s a fresh view showing both the Horsehead Nebula and the Flame Nebula, two celestial showpieces that are located quite close to each other in the constellation Orion.
 This past week we had a night with exceptionally clear and transparent skies. I was able to image a couple of new objects as well as take a fresh look at some old favorites. Among my old favorites, I can&amp;rsquo;t resist reshowing the Horsehead and the Flame.&lt;/p&gt;</description>
       
@@ -364,40 +364,40 @@ This past week we had a night with exceptionally clear and transparent skies. I 
     
     <item>
       <title>The Veil Nebula - the big picture</title>
-      <link>https://hgastro.github.io/posts/2021-12-31-veil-nebula---the-big-picture/</link>
+      <link>http://192.168.1.199:4000/posts/2021-12-31-veil-nebula---the-big-picture/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2021-12-31-veil-nebula---the-big-picture/</guid>
+      <guid>http://192.168.1.199:4000/posts/2021-12-31-veil-nebula---the-big-picture/</guid>
       <description>&lt;p&gt;The entire Veil Nebula (also known as the Cygnus Loop) is BIG - it covers over five times the size of the full Moon.  My previous three posts were recent images of the three brightest parts of the complex.  Here I have mosaicked together five separate older images so you can see the individual parts in relation to each other.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Western Veil Nebula</title>
-      <link>https://hgastro.github.io/posts/2021-11-19-western-veil-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2021-11-19-western-veil-nebula/</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2021-11-19-western-veil-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2021-11-19-western-veil-nebula/</guid>
       <description>&lt;p&gt;The large and extensive Veil Nebula deserves another look. Here we see another separate portion, the western part of the nebula.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Eastern Veil Nebula</title>
-      <link>https://hgastro.github.io/posts/2021-11-01-eastern-veil-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2021-11-01-eastern-veil-nebula/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2021-11-01-eastern-veil-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2021-11-01-eastern-veil-nebula/</guid>
       <description>&lt;p&gt;The Veil Nebula is a portion of the wispy wreckage of a supernova that exploded some eight thousand years ago.  Here we see the eastern portion.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Crescent Nebula</title>
-      <link>https://hgastro.github.io/posts/2021-08-07-crescent-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2021-08-07-crescent-nebula/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2021-08-07-crescent-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2021-08-07-crescent-nebula/</guid>
       <description>&lt;p&gt;Finally, a new object worth sharing:
 The Crescent Nebula is a faint, loop-shaped nebula forming a partial squashed circle.&lt;/p&gt;</description>
       
@@ -405,50 +405,50 @@ The Crescent Nebula is a faint, loop-shaped nebula forming a partial squashed ci
     
     <item>
       <title>Spiral Galaxies from different angles of view</title>
-      <link>https://hgastro.github.io/posts/2021-04-19-spiral-galaxies-from-different-angles-of-view/</link>
+      <link>http://192.168.1.199:4000/posts/2021-04-19-spiral-galaxies-from-different-angles-of-view/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2021-04-19-spiral-galaxies-from-different-angles-of-view/</guid>
+      <guid>http://192.168.1.199:4000/posts/2021-04-19-spiral-galaxies-from-different-angles-of-view/</guid>
       <description>&lt;p&gt;Here are three different faint spiral galaxies that look quite different since we view them from different angles.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Running Man Nebula</title>
-      <link>https://hgastro.github.io/posts/2021-03-05-running-man-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2021-03-05-running-man-nebula/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2021-03-05-running-man-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2021-03-05-running-man-nebula/</guid>
       <description>&lt;p&gt;Following a stretch of poor weather, I got a chance to take the telescope out again the other night and got a good look at a somewhat whimsical space ghost - the Running Man Nebula.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>A Celestial Valentine - The Heart Nebula</title>
-      <link>https://hgastro.github.io/posts/2021-02-14-the-heart-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2021-02-14-the-heart-nebula/</link>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2021-02-14-the-heart-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2021-02-14-the-heart-nebula/</guid>
       <description>&lt;p&gt;Although I made this picture back in December, I thought it would be appropriate to wait and post it on Valentine&amp;rsquo;s Day.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Some Celestial Whimsy</title>
-      <link>https://hgastro.github.io/posts/2021-01-20-celestial-whimsy/</link>
+      <link>http://192.168.1.199:4000/posts/2021-01-20-celestial-whimsy/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2021-01-20-celestial-whimsy/</guid>
+      <guid>http://192.168.1.199:4000/posts/2021-01-20-celestial-whimsy/</guid>
       <description>&lt;p&gt;Here are three somewhat whimsical objects.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Christmas Tree Cluster</title>
-      <link>https://hgastro.github.io/posts/2020-12-25-christmas-tree-cluster-redux/</link>
+      <link>http://192.168.1.199:4000/posts/2020-12-25-christmas-tree-cluster-redux/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-12-25-christmas-tree-cluster-redux/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-12-25-christmas-tree-cluster-redux/</guid>
       <description>&lt;p&gt;Merry Christmas!  In keeping with the holiday, here is a fresh look at one of my favorite objects, the
 Christmas Tree Cluster, NGC 2264.&lt;/p&gt;</description>
       
@@ -456,122 +456,122 @@ Christmas Tree Cluster, NGC 2264.&lt;/p&gt;</description>
     
     <item>
       <title>Three More Spiral Galaxies</title>
-      <link>https://hgastro.github.io/posts/2020-12-15-three-more-spiral-galaxies/</link>
+      <link>http://192.168.1.199:4000/posts/2020-12-15-three-more-spiral-galaxies/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-12-15-three-more-spiral-galaxies/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-12-15-three-more-spiral-galaxies/</guid>
       <description>&lt;p&gt;Here are three attractive galaxies that I was able to observe in the past week or so.  You will notice that even though they are all spiral galaxies, they exhibit strikingly different appearance.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Pelican Nebula</title>
-      <link>https://hgastro.github.io/posts/2020-11-24-the-pelican-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2020-11-24-the-pelican-nebula/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-11-24-the-pelican-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-11-24-the-pelican-nebula/</guid>
       <description>&lt;p&gt;The Pelican Nebula (also known as IC 5070) is an emission nebula whose outlines bear a resemblance to a pelican, giving rise to its name.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Rings in the Sky - Two More Planetary Nebulae</title>
-      <link>https://hgastro.github.io/posts/2020-11-10-rings-in-the-sky/</link>
+      <link>http://192.168.1.199:4000/posts/2020-11-10-rings-in-the-sky/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-11-10-rings-in-the-sky/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-11-10-rings-in-the-sky/</guid>
       <description>&lt;p&gt;Here are two of the prettiest nebulae in the sky: the Helix Nebula (NGC7293) and the Ring Nebula (M57).&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The North American Nebula</title>
-      <link>https://hgastro.github.io/posts/2020-10-18-north-american-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2020-10-18-north-american-nebula/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-10-18-north-american-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-10-18-north-american-nebula/</guid>
       <description>&lt;p&gt;The North American Nebula, also known as NGC 7000, is a large emission nebula in the constellation of Cygnus. The name is obvious because the shape of this nebula looks a lot like the continent it was named after.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Planet Mars at Its Closest and Finest</title>
-      <link>https://hgastro.github.io/posts/2020-10-07-mars/</link>
+      <link>http://192.168.1.199:4000/posts/2020-10-07-mars/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-10-07-mars/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-10-07-mars/</guid>
       <description>&lt;p&gt;The planet Mars was closer to earth on October 6 than it will be anytime in the next 15 years.  The closer it is, the larger it appears and the more detail can be seen. Close also means bright &amp;ndash; if you go out in the evening just after dark these days, you will see Mars as the really bright red object in the southeast, brighter and redder than any other star or planet,&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Planet Jupiter</title>
-      <link>https://hgastro.github.io/posts/2020-09-15-jupiter/</link>
+      <link>http://192.168.1.199:4000/posts/2020-09-15-jupiter/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-09-15-jupiter/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-09-15-jupiter/</guid>
       <description>&lt;p&gt;Now for something completely different!  Normally I spend my time observing &amp;ldquo;faint fuzzies&amp;rdquo; as amateur astronomers call dim distant objects.  But today I decided to share some images of the planet Jupiter, its Great Red Spot and its equatorial belts that I made on Labor Day weekend.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Dumbbell Nebula</title>
-      <link>https://hgastro.github.io/posts/2020-09-01-dumbbell-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2020-09-01-dumbbell-nebula/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-09-01-dumbbell-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-09-01-dumbbell-nebula/</guid>
       <description>&lt;p&gt;The Dumbbell Nebula M27 (also known as Apple Core Nebula) is a typical planetary nebula about 1300 light-years from us. It was the first such object to be discovered &amp;ndash; by Charles Messier in 1764.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Trifid Nebula</title>
-      <link>https://hgastro.github.io/posts/2020-08-14-trifid-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2020-08-14-trifid-nebula/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-08-14-trifid-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-08-14-trifid-nebula/</guid>
       <description>&lt;p&gt;The Trifid Nebula, M20, is a beautiful gaseous cloud within which new stars are being born.  It is one of several spectacular telescopic sights embedded in the summertime Milky Way.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The M61 Supernova - postmortem</title>
-      <link>https://hgastro.github.io/posts/2020-08-13-m61-supernova-postmortem/</link>
+      <link>http://192.168.1.199:4000/posts/2020-08-13-m61-supernova-postmortem/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-08-13-m61-supernova-postmortem/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-08-13-m61-supernova-postmortem/</guid>
       <description>&lt;p&gt;I previously posted about this supernova on
-&lt;a href=&#34;https://hgastro.github.io/posts/2020-05-16-m61-supernova/&#34;&gt;May 16&lt;/a&gt; and on
-&lt;a href=&#34;https://hgastro.github.io/posts/2020-06-16-m61-supernova-revisited/&#34;&gt;June 16&lt;/a&gt;. Here are pictures taken at three additional dates showing how the supernova has faded back to invisibility.&lt;/p&gt;</description>
+&lt;a href=&#34;http://192.168.1.199:4000/posts/2020-05-16-m61-supernova/&#34;&gt;May 16&lt;/a&gt; and on
+&lt;a href=&#34;http://192.168.1.199:4000/posts/2020-06-16-m61-supernova-revisited/&#34;&gt;June 16&lt;/a&gt;. Here are pictures taken at three additional dates showing how the supernova has faded back to invisibility.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Last look at Comet C/2020 F3 NEOWISE</title>
-      <link>https://hgastro.github.io/posts/2020-08-12-comet-neowise-last-look/</link>
+      <link>http://192.168.1.199:4000/posts/2020-08-12-comet-neowise-last-look/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-08-12-comet-neowise-last-look/</guid>
-      <description>&lt;p&gt;This is a follow-up to my &lt;a href=&#34;https://hgastro.github.io/posts/2020-07-29-comet-neowise/&#34;&gt;July 29&lt;/a&gt; post.  Comet NEOWISE has faded rapidly in the last eight days as it continues to move away from the sun and the earth.&lt;/p&gt;</description>
+      <guid>http://192.168.1.199:4000/posts/2020-08-12-comet-neowise-last-look/</guid>
+      <description>&lt;p&gt;This is a follow-up to my &lt;a href=&#34;http://192.168.1.199:4000/posts/2020-07-29-comet-neowise/&#34;&gt;July 29&lt;/a&gt; post.  Comet NEOWISE has faded rapidly in the last eight days as it continues to move away from the sun and the earth.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Comet C/2020 F3 NEOWISE</title>
-      <link>https://hgastro.github.io/posts/2020-07-29-comet-neowise/</link>
+      <link>http://192.168.1.199:4000/posts/2020-07-29-comet-neowise/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-07-29-comet-neowise/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-07-29-comet-neowise/</guid>
       <description>&lt;p&gt;Now rapidly moving away from both the sun and the earth, Comet NEOWISE (C/2020 F3) was only discovered on March 27 and turned out to be the brightest comet visible from the northern hemisphere since Comet Hale–Bopp in 1997. A week ago it was easily visible to the naked eye, but it has dimmed greatly since then.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Lagoon Nebula</title>
-      <link>https://hgastro.github.io/posts/2020-07-14-lagoon-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2020-07-14-lagoon-nebula/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-07-14-lagoon-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-07-14-lagoon-nebula/</guid>
       <description>&lt;p&gt;The Lagoon Nebula, M8, is another remarkable region where new stars are being formed.  It is a giant glowing cloud of interstellar gas lit up by nearby stars. It is divided by a dark lane of dust and it also contains an embedded
 cluster NGC 6530 whose stars have been newly formed from the nebular material.&lt;/p&gt;</description>
       
@@ -579,210 +579,210 @@ cluster NGC 6530 whose stars have been newly formed from the nebular material.&l
     
     <item>
       <title>The Eagle Nebula</title>
-      <link>https://hgastro.github.io/posts/2020-07-03-the-eagle-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2020-07-03-the-eagle-nebula/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-07-03-the-eagle-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-07-03-the-eagle-nebula/</guid>
       <description>&lt;p&gt;M16, the Eagle Nebula, is one of several spectacular objects now coming into view in the summer evening sky. It has been made famous by the Hubble Space Telescope &amp;ldquo;Pillars of Creation&amp;rdquo; photograph - easily the most ubiquitous of all Hubble images.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Changes and Improvements</title>
-      <link>https://hgastro.github.io/posts/2020-07-02-changes-and-improvements/</link>
+      <link>http://192.168.1.199:4000/posts/2020-07-02-changes-and-improvements/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-07-02-changes-and-improvements/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-07-02-changes-and-improvements/</guid>
       <description>&lt;p&gt;I&amp;rsquo;d like to call your attention to some changes and improvements to this blog in the past week or so as I try to make the site more enjoyable to browse.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Pleiades</title>
-      <link>https://hgastro.github.io/posts/2020-06-23-the-pleiades/</link>
+      <link>http://192.168.1.199:4000/posts/2020-06-23-the-pleiades/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-06-23-the-pleiades/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-06-23-the-pleiades/</guid>
       <description>&lt;p&gt;The Pleiades, also known as the Seven Sisters and Messier 45, are an open star cluster containing hot middle-aged stars in the constellation Taurus. It is among the star clusters nearest to Earth and is the cluster most obvious to the naked eye in the night sky. Most people can see the 6 or 7 brightest stars that form a smallish &amp;ldquo;dipper&amp;rdquo; &amp;ndash; NOT to be confused with the Little Dipper (Ursa Minor constellation).&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Supernova in Galaxy M61 is Hanging in There</title>
-      <link>https://hgastro.github.io/posts/2020-06-16-m61-supernova-revisited/</link>
+      <link>http://192.168.1.199:4000/posts/2020-06-16-m61-supernova-revisited/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-06-16-m61-supernova-revisited/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-06-16-m61-supernova-revisited/</guid>
       <description>&lt;p&gt;This is an update to my May 16 post.  The sky was clear and moonless last Friday night, so I was able to check back in on the M61 supernova. A month later, it has faded only a little bit.  I&amp;rsquo;m happy to report that the &amp;ldquo;seeing&amp;rdquo; was better this night, so this image shows somewhat more detail in the galaxy compared to my earlier images.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>A field of galaxies near M49</title>
-      <link>https://hgastro.github.io/posts/2020-06-15-m49-and-neighbors/</link>
+      <link>http://192.168.1.199:4000/posts/2020-06-15-m49-and-neighbors/</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-06-15-m49-and-neighbors/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-06-15-m49-and-neighbors/</guid>
       <description>&lt;p&gt;Here is an interesting field of galaxies in the constellation Virgo.  The brightest is Messier 49, an elliptical galaxy.  It is perhaps five times larger than our Milky Way galaxy and about 60 million light years distant.  Since elliptical galaxies have no discernable structure, they just appear as fuzzy blobs.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Needle Galaxy </title>
-      <link>https://hgastro.github.io/posts/2020-06-05-the-needle-galaxy/</link>
+      <link>http://192.168.1.199:4000/posts/2020-06-05-the-needle-galaxy/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-06-05-the-needle-galaxy/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-06-05-the-needle-galaxy/</guid>
       <description>&lt;p&gt;NGC 4565, the Needle Galaxy, is one of the most prominent and famous edge-on spiral galaxies in the sky.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Perseus Double Cluster</title>
-      <link>https://hgastro.github.io/posts/2020-06-03-the-double-cluster/</link>
+      <link>http://192.168.1.199:4000/posts/2020-06-03-the-double-cluster/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-06-03-the-double-cluster/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-06-03-the-double-cluster/</guid>
       <description>&lt;p&gt;Two for the price of one! The Double Cluster consists of two open star clusters, known as H and Chi Persei (also called NGC 884 and 869).&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Andromeda Galaxy</title>
-      <link>https://hgastro.github.io/posts/2020-05-29-the-andromeda-galaxy/</link>
+      <link>http://192.168.1.199:4000/posts/2020-05-29-the-andromeda-galaxy/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-05-29-the-andromeda-galaxy/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-05-29-the-andromeda-galaxy/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;ve ever seen a picture of another galaxy, odds are that it was of this one, the Andromeda galaxy, also known as M31. At a distance of 2.54 million light years from us, it is closer and hence  appears larger than any other galaxy (apart from the two Magellanic Clouds in the southern hemisphere that are small satellites of our Milky Way). And it is on a collision course with us and will collide with our Milky Way in about four billion years.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Open Clusters</title>
-      <link>https://hgastro.github.io/posts/2020-05-27-open-clusters/</link>
+      <link>http://192.168.1.199:4000/posts/2020-05-27-open-clusters/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-05-27-open-clusters/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-05-27-open-clusters/</guid>
       <description>&lt;p&gt;Scattered mostly along the Milky Way are stellar groupings called open clusters, randomly shaped families of mostly young, hot stars that are all gravitationally bound to each other.  Most stars are born in such clusters, containing anything between perhaps twenty to a few thousand stars.  All of the stars in a given cluster are about the same age, having formed together from the same nebula.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Globular Clusters</title>
-      <link>https://hgastro.github.io/posts/2020-05-26-globular-clusters/</link>
+      <link>http://192.168.1.199:4000/posts/2020-05-26-globular-clusters/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-05-26-globular-clusters/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-05-26-globular-clusters/</guid>
       <description>&lt;p&gt;Here are four representative Globular clusters.   Globular Clusters are gigantic spherical agglomerations of stars that surround the nucleus of our Milky Way galaxy.  Each globular cluster from hundreds of thousands to several million stars, and astronomers believe that the stars is most globular clusters are among the oldest stars in existance, perhaps as much as 10 billion years old.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>A New Supernova in Nearby Galaxy M61</title>
-      <link>https://hgastro.github.io/posts/2020-05-16-m61-supernova/</link>
+      <link>http://192.168.1.199:4000/posts/2020-05-16-m61-supernova/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-05-16-m61-supernova/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-05-16-m61-supernova/</guid>
       <description>&lt;p&gt;This supernova was discovered on May 6.  It is expected to continue to brighten for several days before fading away over several weeks.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Comet C/2019 Y4 ATLAS</title>
-      <link>https://hgastro.github.io/posts/2020-05-01-comet-atlas/</link>
+      <link>http://192.168.1.199:4000/posts/2020-05-01-comet-atlas/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-05-01-comet-atlas/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-05-01-comet-atlas/</guid>
       <description>&lt;p&gt;Comet C/2019 Y4 ATLAS has been a big disappointment.  It was discovered just four months ago, on December 28, 2019.  Initially it brightened much more quickly than expected, and there were hopes that it might reach naked-eye visibility in late May when it will pass closest to the sun and to the earth.  However its nucleus was observed to fragment by early April, and as a result it started getting dimmer instead of brighter. You can see pictures of the fragments taken by the Hubble Space Telescope by clicking on &lt;a href=&#34;https://astronomy.com/news/2020/05/hubble-captures-breakup-of-comet-atlas&#34; target=&#34;_blank&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Two Face-on Spiral Galaxies - A Study in Contrasts</title>
-      <link>https://hgastro.github.io/posts/2020-05-01-two-face-on-spiral-galaxies/</link>
+      <link>http://192.168.1.199:4000/posts/2020-05-01-two-face-on-spiral-galaxies/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-05-01-two-face-on-spiral-galaxies/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-05-01-two-face-on-spiral-galaxies/</guid>
       <description>&lt;p&gt;M94 is a face-on spiral galaxy whose spiral arms hug the middle and wind very tightly into the core. It is sometimes called the Cat&amp;rsquo;s Eye galaxy or the or Croc’s Eye Galaxy. It is about 16 million light years from the Earth. Around the brilliant circular disk is a ring of active star-forming regions, revealed in astrophotography as blue young star clusters. This artifact delineates it from the faded outer ring of an older yellowish stellar population.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Galaxy M83</title>
-      <link>https://hgastro.github.io/posts/2020-04-30-galaxy-m83/</link>
+      <link>http://192.168.1.199:4000/posts/2020-04-30-galaxy-m83/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-04-30-galaxy-m83/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-04-30-galaxy-m83/</guid>
       <description>&lt;p&gt;Here is a face-on view of the barred spiral galaxy Messier 83, the southern pinwheel galaxy. (It is believed that our own Milky Way galaxy would look very much like M83 if we could view it from outside, although the Milky Way is about twice as large as M83 is.)  Notice the bright central nucleus, the well-formed  spiral arms, the central bar, and the dark dust lanes.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Leo Triplet - Three Galaxies</title>
-      <link>https://hgastro.github.io/posts/2020-04-30-the-leo-triplet/</link>
+      <link>http://192.168.1.199:4000/posts/2020-04-30-the-leo-triplet/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-04-30-the-leo-triplet/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-04-30-the-leo-triplet/</guid>
       <description>&lt;p&gt;The Leo Triplet is an interesting group of three mutually interacting galaxies that are often observed and photographed within a single field of view. The Leo Triplet includes spiral galaxies M65 (lower right), M66 (lower left), and NGC 3628 (upper left). This group of galaxies is found in the constellation Leo, all of them are about 35 million light years from the earth.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Sombrero Galaxy</title>
-      <link>https://hgastro.github.io/posts/2020-04-30-the-sombrero-galaxy/</link>
+      <link>http://192.168.1.199:4000/posts/2020-04-30-the-sombrero-galaxy/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-04-30-the-sombrero-galaxy/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-04-30-the-sombrero-galaxy/</guid>
       <description>&lt;p&gt;The Sombrero Galaxy (also known as M104) is a lenticular galaxy about 31.1 million light-years) from Earth. The galaxy has a diameter of approximately 30% the size of the Milky Way. It has a bright nucleus, an unusually large central bulge, and a prominent dust lane in its inclined disk. The dark dust lane and the bulge give this galaxy the appearance of a sombrero hat. Its large bulge, its central supermassive black hole, and its dust lane all attract the attention of professional astronomers.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Christmas Tree Star Cluster</title>
-      <link>https://hgastro.github.io/posts/2020-03-03-christmas-tree-cluster/</link>
+      <link>http://192.168.1.199:4000/posts/2020-03-03-christmas-tree-cluster/</link>
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-03-03-christmas-tree-cluster/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-03-03-christmas-tree-cluster/</guid>
       <description>&lt;p&gt;The Christmas Tree Cluster was named for its triangular shape, formed by a cluster of very young stars,  that looks like a tree in visible light. The bright variable star S Monocerotis (near the bottom) marks the base of the Christmas tree and lights up the nearby nebulosity.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Horsehead Nebula</title>
-      <link>https://hgastro.github.io/posts/2020-03-03-horsehead-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2020-03-03-horsehead-nebula/</link>
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-03-03-horsehead-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-03-03-horsehead-nebula/</guid>
       <description>&lt;p&gt;The Horsehead Nebula consists of a cloud of ionized gas lit from within by young, hot stars; a dark cloud containing interstellar dust lies immediately in front. The dust absorbs the light from part of the ionized cloud. A portion of this dark cloud has a shape somewhat resembling a horse’s head. The nebula is located 1,300 light-years from the Sun.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Flame Nebula</title>
-      <link>https://hgastro.github.io/posts/2020-02-28-flame-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2020-02-28-flame-nebula/</link>
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-02-28-flame-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-02-28-flame-nebula/</guid>
       <description>&lt;p&gt;The Flame Nebula, designated as NGC 2024, is an emission nebula in the constellation Orion. It is about 900 to 1,500 light-years away.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Owl Nebula and Surfboard Galaxy</title>
-      <link>https://hgastro.github.io/posts/2020-02-27-m97-and-m108/</link>
+      <link>http://192.168.1.199:4000/posts/2020-02-27-m97-and-m108/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-02-27-m97-and-m108/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-02-27-m97-and-m108/</guid>
       <description>&lt;p&gt;The Owl Nebula (also known Messier 97) is a planetary nebula located approximately 2,030 light years away in the constellation Ursa Major. When William Parsons observed the nebula in 1848, his hand-drawn illustration resembled an owl&amp;rsquo;s head. It has been known as the Owl Nebula ever since. The nebula is approximately 8,000 years old. It is approximately circular in cross-section with a little visible internal structure. The nebula is arranged in three concentric shells, with the outermost shell being about 20–30% larger than the inner shell. The owl-like appearance of the nebula is the result of an inner shell that is not circularly symmetric, but instead forms a barrel-like structure aligned at an angle of 45° to the line of sight.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Galaxies M81 and M82</title>
-      <link>https://hgastro.github.io/posts/2020-02-26-m81&#43;m82/</link>
+      <link>http://192.168.1.199:4000/posts/2020-02-26-m81&#43;m82/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-02-26-m81&#43;m82/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-02-26-m81&#43;m82/</guid>
       <description>&lt;p&gt;Here are two nearby galaxies taken from my back yard with my new astrograph telescope.
 M81 is face-on and its neighbor M82 is edge-on. Dust clouds in the latter are especially noticeable.&lt;/p&gt;</description>
       
@@ -790,10 +790,10 @@ M81 is face-on and its neighbor M82 is edge-on. Dust clouds in the latter are es
     
     <item>
       <title>The Whirlpool Galaxy</title>
-      <link>https://hgastro.github.io/posts/2020-02-22-whirlpool-galaxy/</link>
+      <link>http://192.168.1.199:4000/posts/2020-02-22-whirlpool-galaxy/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-02-22-whirlpool-galaxy/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-02-22-whirlpool-galaxy/</guid>
       <description>&lt;p&gt;M51, better known as the Whirlpool Galaxy,
 is a magnificent face-on spiral galaxy.
 The Whirlpool Galaxy is interacting with a smaller companion, NGC 5195, a dwarf galaxy connected to its larger neighbour by a tidal bridge of dust. The bridge is visible in images of the pair silhouetted against the central region of the smaller galaxy. It lies at an approximate distance of 35  million light years from Earth.&lt;/p&gt;</description>
@@ -802,30 +802,30 @@ The Whirlpool Galaxy is interacting with a smaller companion, NGC 5195, a dwarf 
     
     <item>
       <title>The Crab Nebula</title>
-      <link>https://hgastro.github.io/posts/2020-02-15-crab-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2020-02-15-crab-nebula/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-02-15-crab-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-02-15-crab-nebula/</guid>
       <description>&lt;p&gt;M1, the Crab Nebula, is the remnant of the spectacular supernova of 1054.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Rosette Nebula</title>
-      <link>https://hgastro.github.io/posts/2020-02-15-rosette-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2020-02-15-rosette-nebula/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-02-15-rosette-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-02-15-rosette-nebula/</guid>
       <description>&lt;p&gt;The Rosette Nebula (NGC 2237) is a large spherical H II region (circular in appearance) located near one end of a giant molecular cloud in the Monoceros region of the Milky Way Galaxy. The open cluster NGC 2244 is closely associated with the nebulosity, the stars of the cluster having been formed from the nebula&amp;rsquo;s matter.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Orion Nebula</title>
-      <link>https://hgastro.github.io/posts/2020-02-03-orion-nebula/</link>
+      <link>http://192.168.1.199:4000/posts/2020-02-03-orion-nebula/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-02-03-orion-nebula/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-02-03-orion-nebula/</guid>
       <description>&lt;p&gt;The Orion Nebula M42 is the most spectacular deep-sky object visible through almost any telescope.  Other than the moon, there is no other object in the night sky that reveals as much detail as M42.  It is visible to the naked eye as the fuzzy central star in Orion&amp;rsquo;s sword.&lt;/p&gt;</description>
       
     </item>

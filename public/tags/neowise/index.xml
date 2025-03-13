@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neowise on Suburban Backyard Astro Sights</title>
-    <link>https://hgastro.github.io/tags/neowise/</link>
+    <link>http://192.168.1.199:4000/tags/neowise/</link>
     <description>Recent content in Neowise on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/neowise/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/neowise/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Last look at Comet C/2020 F3 NEOWISE</title>
-      <link>https://hgastro.github.io/posts/2020-08-12-comet-neowise-last-look/</link>
+      <link>http://192.168.1.199:4000/posts/2020-08-12-comet-neowise-last-look/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-08-12-comet-neowise-last-look/</guid>
-      <description>&lt;p&gt;This is a follow-up to my &lt;a href=&#34;https://hgastro.github.io/posts/2020-07-29-comet-neowise/&#34;&gt;July 29&lt;/a&gt; post.  Comet NEOWISE has faded rapidly in the last eight days as it continues to move away from the sun and the earth.&lt;/p&gt;</description>
+      <guid>http://192.168.1.199:4000/posts/2020-08-12-comet-neowise-last-look/</guid>
+      <description>&lt;p&gt;This is a follow-up to my &lt;a href=&#34;http://192.168.1.199:4000/posts/2020-07-29-comet-neowise/&#34;&gt;July 29&lt;/a&gt; post.  Comet NEOWISE has faded rapidly in the last eight days as it continues to move away from the sun and the earth.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Comet C/2020 F3 NEOWISE</title>
-      <link>https://hgastro.github.io/posts/2020-07-29-comet-neowise/</link>
+      <link>http://192.168.1.199:4000/posts/2020-07-29-comet-neowise/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-07-29-comet-neowise/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-07-29-comet-neowise/</guid>
       <description>&lt;p&gt;Now rapidly moving away from both the sun and the earth, Comet NEOWISE (C/2020 F3) was only discovered on March 27 and turned out to be the brightest comet visible from the northern hemisphere since Comet Hale–Bopp in 1997. A week ago it was easily visible to the naked eye, but it has dimmed greatly since then.&lt;/p&gt;</description>
       
     </item>

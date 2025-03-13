@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ngc7293 on Suburban Backyard Astro Sights</title>
-    <link>https://hgastro.github.io/tags/ngc7293/</link>
+    <link>http://192.168.1.199:4000/tags/ngc7293/</link>
     <description>Recent content in Ngc7293 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/ngc7293/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/ngc7293/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Helix Nebula</title>
-      <link>https://hgastro.github.io/posts/2024-01-01-helix-revisited/</link>
+      <link>http://192.168.1.199:4000/posts/2024-01-01-helix-revisited/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2024-01-01-helix-revisited/</guid>
+      <guid>http://192.168.1.199:4000/posts/2024-01-01-helix-revisited/</guid>
       <description>&lt;p&gt;The Helix Nebula is a stunning example of a planetary nebula -— a glowing shell of ionized gas expelled by a dying star.
 The star expels its outer layers of gas, leaving only its small, hot core. Radiation from the core energizes that gas, causing it to glow in a rainbow of colors. About 650 light-years away, the Helix is one of the closest and brightest such nebulae.&lt;/p&gt;</description>
       
@@ -22,10 +22,10 @@ The star expels its outer layers of gas, leaving only its small, hot core. Radia
     
     <item>
       <title>Rings in the Sky - Two More Planetary Nebulae</title>
-      <link>https://hgastro.github.io/posts/2020-11-10-rings-in-the-sky/</link>
+      <link>http://192.168.1.199:4000/posts/2020-11-10-rings-in-the-sky/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-11-10-rings-in-the-sky/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-11-10-rings-in-the-sky/</guid>
       <description>&lt;p&gt;Here are two of the prettiest nebulae in the sky: the Helix Nebula (NGC7293) and the Ring Nebula (M57).&lt;/p&gt;</description>
       
     </item>

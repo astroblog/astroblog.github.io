@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jupiter on Suburban Backyard Astro Sights</title>
-    <link>https://hgastro.github.io/tags/jupiter/</link>
+    <link>http://192.168.1.199:4000/tags/jupiter/</link>
     <description>Recent content in Jupiter on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/jupiter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/jupiter/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Planet Jupiter</title>
-      <link>https://hgastro.github.io/posts/2020-09-15-jupiter/</link>
+      <link>http://192.168.1.199:4000/posts/2020-09-15-jupiter/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/posts/2020-09-15-jupiter/</guid>
+      <guid>http://192.168.1.199:4000/posts/2020-09-15-jupiter/</guid>
       <description>&lt;p&gt;Now for something completely different!  Normally I spend my time observing &amp;ldquo;faint fuzzies&amp;rdquo; as amateur astronomers call dim distant objects.  But today I decided to share some images of the planet Jupiter, its Great Red Spot and its equatorial belts that I made on Labor Day weekend.&lt;/p&gt;</description>
       
     </item>

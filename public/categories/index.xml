@@ -2,99 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Suburban Backyard Astro Sights</title>
-    <link>https://hgastro.github.io/categories/</link>
+    <link>http://192.168.1.199:4000/categories/</link>
     <description>Recent content in Categories on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nebula</title>
-      <link>https://hgastro.github.io/categories/nebula/</link>
+      <link>http://192.168.1.199:4000/categories/nebula/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/categories/nebula/</guid>
+      <guid>http://192.168.1.199:4000/categories/nebula/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Open</title>
-      <link>https://hgastro.github.io/categories/open/</link>
+      <link>http://192.168.1.199:4000/categories/open/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/categories/open/</guid>
+      <guid>http://192.168.1.199:4000/categories/open/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Planetary</title>
-      <link>https://hgastro.github.io/categories/planetary/</link>
+      <link>http://192.168.1.199:4000/categories/planetary/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/categories/planetary/</guid>
+      <guid>http://192.168.1.199:4000/categories/planetary/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Galaxy</title>
-      <link>https://hgastro.github.io/categories/galaxy/</link>
+      <link>http://192.168.1.199:4000/categories/galaxy/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/categories/galaxy/</guid>
+      <guid>http://192.168.1.199:4000/categories/galaxy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Globular</title>
-      <link>https://hgastro.github.io/categories/globular/</link>
+      <link>http://192.168.1.199:4000/categories/globular/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/categories/globular/</guid>
+      <guid>http://192.168.1.199:4000/categories/globular/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Spacecraft</title>
-      <link>https://hgastro.github.io/categories/spacecraft/</link>
+      <link>http://192.168.1.199:4000/categories/spacecraft/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/categories/spacecraft/</guid>
+      <guid>http://192.168.1.199:4000/categories/spacecraft/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Planet</title>
-      <link>https://hgastro.github.io/categories/planet/</link>
+      <link>http://192.168.1.199:4000/categories/planet/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/categories/planet/</guid>
+      <guid>http://192.168.1.199:4000/categories/planet/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Supernova</title>
-      <link>https://hgastro.github.io/categories/supernova/</link>
+      <link>http://192.168.1.199:4000/categories/supernova/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/categories/supernova/</guid>
+      <guid>http://192.168.1.199:4000/categories/supernova/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Comet</title>
-      <link>https://hgastro.github.io/categories/comet/</link>
+      <link>http://192.168.1.199:4000/categories/comet/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hgastro.github.io/categories/comet/</guid>
+      <guid>http://192.168.1.199:4000/categories/comet/</guid>
       <description></description>
       
     </item>
