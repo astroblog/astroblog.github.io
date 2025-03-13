@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M51 on Suburban Backyard Astro Sights</title>
-    <link>http://192.168.1.199:4000/tags/m51/</link>
+    <link>https://hgastro.github.io/tags/m51/</link>
     <description>Recent content in M51 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/m51/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/m51/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Whirlpool Galaxy</title>
-      <link>http://192.168.1.199:4000/posts/2024-08-30-whirlpool-galaxy-revisited/</link>
+      <link>https://hgastro.github.io/posts/2024-08-30-whirlpool-galaxy-revisited/</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2024-08-30-whirlpool-galaxy-revisited/</guid>
+      <guid>https://hgastro.github.io/posts/2024-08-30-whirlpool-galaxy-revisited/</guid>
       <description>&lt;p&gt;The Whirlpool Galaxy, also known as M51,
 is a magnificent face-on spiral galaxy.
 It is interacting with a smaller companion, NGC 5195, a dwarf galaxy connected to its larger neighbor by a tidal bridge of dust. The bridge is visible in the image silhouetted against the central region of the smaller galaxy.&lt;/p&gt;</description>
@@ -23,10 +23,10 @@ It is interacting with a smaller companion, NGC 5195, a dwarf galaxy connected t
     
     <item>
       <title>The Whirlpool Galaxy</title>
-      <link>http://192.168.1.199:4000/posts/2020-02-22-whirlpool-galaxy/</link>
+      <link>https://hgastro.github.io/posts/2020-02-22-whirlpool-galaxy/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2020-02-22-whirlpool-galaxy/</guid>
+      <guid>https://hgastro.github.io/posts/2020-02-22-whirlpool-galaxy/</guid>
       <description>&lt;p&gt;M51, better known as the Whirlpool Galaxy,
 is a magnificent face-on spiral galaxy.
 The Whirlpool Galaxy is interacting with a smaller companion, NGC 5195, a dwarf galaxy connected to its larger neighbour by a tidal bridge of dust. The bridge is visible in images of the pair silhouetted against the central region of the smaller galaxy. It lies at an approximate distance of 35  million light years from Earth.&lt;/p&gt;</description>

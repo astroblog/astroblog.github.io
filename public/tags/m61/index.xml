@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M61 on Suburban Backyard Astro Sights</title>
-    <link>http://192.168.1.199:4000/tags/m61/</link>
+    <link>https://hgastro.github.io/tags/m61/</link>
     <description>Recent content in M61 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/m61/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/m61/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The M61 Supernova - postmortem</title>
-      <link>http://192.168.1.199:4000/posts/2020-08-13-m61-supernova-postmortem/</link>
+      <link>https://hgastro.github.io/posts/2020-08-13-m61-supernova-postmortem/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2020-08-13-m61-supernova-postmortem/</guid>
+      <guid>https://hgastro.github.io/posts/2020-08-13-m61-supernova-postmortem/</guid>
       <description>&lt;p&gt;I previously posted about this supernova on
-&lt;a href=&#34;http://192.168.1.199:4000/posts/2020-05-16-m61-supernova/&#34;&gt;May 16&lt;/a&gt; and on
-&lt;a href=&#34;http://192.168.1.199:4000/posts/2020-06-16-m61-supernova-revisited/&#34;&gt;June 16&lt;/a&gt;. Here are pictures taken at three additional dates showing how the supernova has faded back to invisibility.&lt;/p&gt;</description>
+&lt;a href=&#34;https://hgastro.github.io/posts/2020-05-16-m61-supernova/&#34;&gt;May 16&lt;/a&gt; and on
+&lt;a href=&#34;https://hgastro.github.io/posts/2020-06-16-m61-supernova-revisited/&#34;&gt;June 16&lt;/a&gt;. Here are pictures taken at three additional dates showing how the supernova has faded back to invisibility.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Supernova in Galaxy M61 is Hanging in There</title>
-      <link>http://192.168.1.199:4000/posts/2020-06-16-m61-supernova-revisited/</link>
+      <link>https://hgastro.github.io/posts/2020-06-16-m61-supernova-revisited/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2020-06-16-m61-supernova-revisited/</guid>
+      <guid>https://hgastro.github.io/posts/2020-06-16-m61-supernova-revisited/</guid>
       <description>&lt;p&gt;This is an update to my May 16 post.  The sky was clear and moonless last Friday night, so I was able to check back in on the M61 supernova. A month later, it has faded only a little bit.  I&amp;rsquo;m happy to report that the &amp;ldquo;seeing&amp;rdquo; was better this night, so this image shows somewhat more detail in the galaxy compared to my earlier images.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>A New Supernova in Nearby Galaxy M61</title>
-      <link>http://192.168.1.199:4000/posts/2020-05-16-m61-supernova/</link>
+      <link>https://hgastro.github.io/posts/2020-05-16-m61-supernova/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2020-05-16-m61-supernova/</guid>
+      <guid>https://hgastro.github.io/posts/2020-05-16-m61-supernova/</guid>
       <description>&lt;p&gt;This supernova was discovered on May 6.  It is expected to continue to brighten for several days before fading away over several weeks.&lt;/p&gt;</description>
       
     </item>

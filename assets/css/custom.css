@@ -38,6 +38,10 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Lora', cursive !important;
    }
 
+/* Apply a background image to all post pages.  The homepage already has a different background via 
+   standard blowfish mechanisms.  This required a modification to layouts/_default/baseof.html to
+   inject the type of page (posts) into <body class=
+*/
 .posts::before {
     content: "";
     position: fixed;

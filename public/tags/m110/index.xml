@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M110 on Suburban Backyard Astro Sights</title>
-    <link>http://192.168.1.199:4000/tags/m110/</link>
+    <link>https://hgastro.github.io/tags/m110/</link>
     <description>Recent content in M110 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/m110/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/m110/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Andromeda Galaxy</title>
-      <link>http://192.168.1.199:4000/posts/2024-01-19-andromeda-galaxy-revisited/</link>
+      <link>https://hgastro.github.io/posts/2024-01-19-andromeda-galaxy-revisited/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2024-01-19-andromeda-galaxy-revisited/</guid>
+      <guid>https://hgastro.github.io/posts/2024-01-19-andromeda-galaxy-revisited/</guid>
       <description>&lt;p&gt;The Andromeda Galaxy (M31) is the closest spiral galaxy to our own Milky Way.
 It is visible to the naked eye as a faint smudge on a dark moonless night; it is impressive in a small telescope; but it takes a long exposure photograph to reveal its full extent and structure.&lt;/p&gt;</description>
       
@@ -22,10 +22,10 @@ It is visible to the naked eye as a faint smudge on a dark moonless night; it is
     
     <item>
       <title>The Andromeda Galaxy</title>
-      <link>http://192.168.1.199:4000/posts/2020-05-29-the-andromeda-galaxy/</link>
+      <link>https://hgastro.github.io/posts/2020-05-29-the-andromeda-galaxy/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2020-05-29-the-andromeda-galaxy/</guid>
+      <guid>https://hgastro.github.io/posts/2020-05-29-the-andromeda-galaxy/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;ve ever seen a picture of another galaxy, odds are that it was of this one, the Andromeda galaxy, also known as M31. At a distance of 2.54 million light years from us, it is closer and hence  appears larger than any other galaxy (apart from the two Magellanic Clouds in the southern hemisphere that are small satellites of our Milky Way). And it is on a collision course with us and will collide with our Milky Way in about four billion years.&lt;/p&gt;</description>
       
     </item>

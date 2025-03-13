@@ -1,4 +1,3 @@
 theme = "blowfish" 
-baseURL = 'https://example.org/'
+baseURL = 'https://hgastro.github.io/'
 languageCode = 'en-us'
-

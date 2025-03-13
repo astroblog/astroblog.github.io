@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M42 on Suburban Backyard Astro Sights</title>
-    <link>http://192.168.1.199:4000/tags/m42/</link>
+    <link>https://hgastro.github.io/tags/m42/</link>
     <description>Recent content in M42 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/m42/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hgastro.github.io/tags/m42/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Orion Nebula and the Running Man</title>
-      <link>http://192.168.1.199:4000/posts/2022-03-01-orion-nebula-and-running-man/</link>
+      <link>https://hgastro.github.io/posts/2022-03-01-orion-nebula-and-running-man/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2022-03-01-orion-nebula-and-running-man/</guid>
+      <guid>https://hgastro.github.io/posts/2022-03-01-orion-nebula-and-running-man/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s a fresh look at the wonderful Orion Nebula complex (M42 and M43) and the neighboring Running Man. Although I have shown both before, this new view shows how they are related to each other.  This is also a longer exposure than before and has been processed to reveal additional subtle detail.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>The Orion Nebula</title>
-      <link>http://192.168.1.199:4000/posts/2020-02-03-orion-nebula/</link>
+      <link>https://hgastro.github.io/posts/2020-02-03-orion-nebula/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2020-02-03-orion-nebula/</guid>
+      <guid>https://hgastro.github.io/posts/2020-02-03-orion-nebula/</guid>
       <description>&lt;p&gt;The Orion Nebula M42 is the most spectacular deep-sky object visible through almost any telescope.  Other than the moon, there is no other object in the night sky that reveals as much detail as M42.  It is visible to the naked eye as the fuzzy central star in Orion&amp;rsquo;s sword.&lt;/p&gt;</description>
       
     </item>
