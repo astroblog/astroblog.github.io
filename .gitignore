@@ -10,7 +10,7 @@
 
 # Themes (if using Blowfish as a Git submodule)
 # Uncomment if you are managing themes via Git submodules
-# /themes/
+/themes/
 
 # Node.js dependencies (if using npm for assets)
 node_modules/
