@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ic5070 on Suburban Backyard Astro Sights</title>
-    <link>http://192.168.1.199:4000/tags/ic5070/</link>
+    <link>http://localhost:1313/tags/ic5070/</link>
     <description>Recent content in Ic5070 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/ic5070/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ic5070/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Pelican Nebula</title>
-      <link>http://192.168.1.199:4000/posts/2022-11-18-pelican-nebula-take-2/</link>
+      <link>http://localhost:1313/posts/2022-11-18-pelican-nebula-take-2/</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2022-11-18-pelican-nebula-take-2/</guid>
+      <guid>http://localhost:1313/posts/2022-11-18-pelican-nebula-take-2/</guid>
       <description>&lt;p&gt;The Pelican Nebula is an emission nebula whose outlines somewhat resemble the namesake bird.
 The nebula’s appearance is defined by dark dust clouds that outline the pelican’s long bill and eye, and by bright clouds of ionized gas that form the curved shape of the pelican’s head and neck. The pelican&amp;rsquo;s body and wing are formed by a complex mixture of bright nebulosity intermixed with dark dust clouds, as is the pouch hanging down from the bill.&lt;/p&gt;</description>
       
@@ -22,10 +22,10 @@ The nebula’s appearance is defined by dark dust clouds that outline the pelica
     
     <item>
       <title>The Pelican Nebula</title>
-      <link>http://192.168.1.199:4000/posts/2020-11-24-the-pelican-nebula/</link>
+      <link>http://localhost:1313/posts/2020-11-24-the-pelican-nebula/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2020-11-24-the-pelican-nebula/</guid>
+      <guid>http://localhost:1313/posts/2020-11-24-the-pelican-nebula/</guid>
       <description>&lt;p&gt;The Pelican Nebula (also known as IC 5070) is an emission nebula whose outlines bear a resemblance to a pelican, giving rise to its name.&lt;/p&gt;</description>
       
     </item>

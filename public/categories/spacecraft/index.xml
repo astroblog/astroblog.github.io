@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spacecraft on Suburban Backyard Astro Sights</title>
-    <link>http://192.168.1.199:4000/categories/spacecraft/</link>
+    <link>http://localhost:1313/categories/spacecraft/</link>
     <description>Recent content in Spacecraft on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/categories/spacecraft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/spacecraft/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pushing my limits - spotting the James Webb Space Telescope</title>
-      <link>http://192.168.1.199:4000/posts/2022-10-01-jwst/</link>
+      <link>http://localhost:1313/posts/2022-10-01-jwst/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2022-10-01-jwst/</guid>
+      <guid>http://localhost:1313/posts/2022-10-01-jwst/</guid>
       <description>&lt;p&gt;Ever since NASA launched their new James Webb Space Telescope last December I&amp;rsquo;ve been interested
 in seeing if it was possible to spot it using my 8-inch backyard telescope and camera.  Spoiler alert: Yes I can!&lt;/p&gt;</description>
       

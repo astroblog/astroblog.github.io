@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mars on Suburban Backyard Astro Sights</title>
-    <link>http://192.168.1.199:4000/tags/mars/</link>
+    <link>http://localhost:1313/tags/mars/</link>
     <description>Recent content in Mars on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/mars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mars/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Planet Mars at Its Closest and Finest</title>
-      <link>http://192.168.1.199:4000/posts/2020-10-07-mars/</link>
+      <link>http://localhost:1313/posts/2020-10-07-mars/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2020-10-07-mars/</guid>
+      <guid>http://localhost:1313/posts/2020-10-07-mars/</guid>
       <description>&lt;p&gt;The planet Mars was closer to earth on October 6 than it will be anytime in the next 15 years.  The closer it is, the larger it appears and the more detail can be seen. Close also means bright &amp;ndash; if you go out in the evening just after dark these days, you will see Mars as the really bright red object in the southeast, brighter and redder than any other star or planet,&lt;/p&gt;</description>
       
     </item>

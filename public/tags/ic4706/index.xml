@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ic4706 on Suburban Backyard Astro Sights</title>
-    <link>http://192.168.1.199:4000/tags/ic4706/</link>
+    <link>http://localhost:1313/tags/ic4706/</link>
     <description>Recent content in Ic4706 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/ic4706/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ic4706/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Omega Nebula</title>
-      <link>http://192.168.1.199:4000/posts/2023-11-17-omega-swan/</link>
+      <link>http://localhost:1313/posts/2023-11-17-omega-swan/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2023-11-17-omega-swan/</guid>
+      <guid>http://localhost:1313/posts/2023-11-17-omega-swan/</guid>
       <description>&lt;p&gt;M17, another vast region of interstellar gas and dust, is most commonly known as the Omega Nebula or the Swan Nebula. The complex measures 15 light-years across and is about 5,000 light-years from Earth.&lt;/p&gt;</description>
       
     </item>

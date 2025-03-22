@@ -1,1 +1,33 @@
-public
+# Hugo-generated files
+/public/
+/resources/
+/assets/js/bundle.js
+/assets/js/bundle.js.map
+
+# Hugo caching and temp files
+/hugo_stats.json
+/.hugo_build.lock
+
+# Themes (if using Blowfish as a Git submodule)
+# Uncomment if you are managing themes via Git submodules
+# /themes/
+
+# Node.js dependencies (if using npm for assets)
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+*.log
+
+# Go-related files (if using Go modules)
+go.sum
+go.mod
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+

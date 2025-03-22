@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ngc2903 on Suburban Backyard Astro Sights</title>
-    <link>http://192.168.1.199:4000/tags/ngc2903/</link>
+    <link>http://localhost:1313/tags/ngc2903/</link>
     <description>Recent content in Ngc2903 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/ngc2903/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ngc2903/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Spiral Galaxy NGC 2903</title>
-      <link>http://192.168.1.199:4000/posts/2024-06-01-spiral-galaxy-ngc-2903/</link>
+      <link>http://localhost:1313/posts/2024-06-01-spiral-galaxy-ngc-2903/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2024-06-01-spiral-galaxy-ngc-2903/</guid>
+      <guid>http://localhost:1313/posts/2024-06-01-spiral-galaxy-ngc-2903/</guid>
       <description>&lt;p&gt;One of the brighter nearby galaxies, NGC 2903 was somehow missed by comet hunter Charles Messier when he compiled his famous list of objects not to be mistaken for comets.  Nonetheless, this barred spiral is an attractive telescopic object.&lt;/p&gt;</description>
       
     </item>

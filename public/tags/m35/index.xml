@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M35 on Suburban Backyard Astro Sights</title>
-    <link>http://192.168.1.199:4000/tags/m35/</link>
+    <link>http://localhost:1313/tags/m35/</link>
     <description>Recent content in M35 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/m35/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/m35/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Open Clusters</title>
-      <link>http://192.168.1.199:4000/posts/2020-05-27-open-clusters/</link>
+      <link>http://localhost:1313/posts/2020-05-27-open-clusters/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2020-05-27-open-clusters/</guid>
+      <guid>http://localhost:1313/posts/2020-05-27-open-clusters/</guid>
       <description>&lt;p&gt;Scattered mostly along the Milky Way are stellar groupings called open clusters, randomly shaped families of mostly young, hot stars that are all gravitationally bound to each other.  Most stars are born in such clusters, containing anything between perhaps twenty to a few thousand stars.  All of the stars in a given cluster are about the same age, having formed together from the same nebula.&lt;/p&gt;</description>
       
     </item>

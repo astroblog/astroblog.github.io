@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ic434 on Suburban Backyard Astro Sights</title>
-    <link>http://192.168.1.199:4000/tags/ic434/</link>
+    <link>http://localhost:1313/tags/ic434/</link>
     <description>Recent content in Ic434 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/ic434/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ic434/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Horsehead and Flame - the big picture</title>
-      <link>http://192.168.1.199:4000/posts/2022-01-30-horsehead-and-flame---the-big-picture/</link>
+      <link>http://localhost:1313/posts/2022-01-30-horsehead-and-flame---the-big-picture/</link>
       <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2022-01-30-horsehead-and-flame---the-big-picture/</guid>
+      <guid>http://localhost:1313/posts/2022-01-30-horsehead-and-flame---the-big-picture/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s a fresh view showing both the Horsehead Nebula and the Flame Nebula, two celestial showpieces that are located quite close to each other in the constellation Orion.
 This past week we had a night with exceptionally clear and transparent skies. I was able to image a couple of new objects as well as take a fresh look at some old favorites. Among my old favorites, I can&amp;rsquo;t resist reshowing the Horsehead and the Flame.&lt;/p&gt;</description>
       
@@ -22,10 +22,10 @@ This past week we had a night with exceptionally clear and transparent skies. I 
     
     <item>
       <title>The Horsehead Nebula</title>
-      <link>http://192.168.1.199:4000/posts/2020-03-03-horsehead-nebula/</link>
+      <link>http://localhost:1313/posts/2020-03-03-horsehead-nebula/</link>
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2020-03-03-horsehead-nebula/</guid>
+      <guid>http://localhost:1313/posts/2020-03-03-horsehead-nebula/</guid>
       <description>&lt;p&gt;The Horsehead Nebula consists of a cloud of ionized gas lit from within by young, hot stars; a dark cloud containing interstellar dust lies immediately in front. The dust absorbs the light from part of the ionized cloud. A portion of this dark cloud has a shape somewhat resembling a horse’s head. The nebula is located 1,300 light-years from the Sun.&lt;/p&gt;</description>
       
     </item>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ic5146 on Suburban Backyard Astro Sights</title>
-    <link>http://192.168.1.199:4000/tags/ic5146/</link>
+    <link>http://localhost:1313/tags/ic5146/</link>
     <description>Recent content in Ic5146 on Suburban Backyard Astro Sights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://192.168.1.199:4000/tags/ic5146/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ic5146/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Cocoon Nebula</title>
-      <link>http://192.168.1.199:4000/posts/2022-09-15-cocoon-nebula/</link>
+      <link>http://localhost:1313/posts/2022-09-15-cocoon-nebula/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.1.199:4000/posts/2022-09-15-cocoon-nebula/</guid>
+      <guid>http://localhost:1313/posts/2022-09-15-cocoon-nebula/</guid>
       <description>&lt;p&gt;The Cocoon Nebula, IC 5146, is a cluster of stars involved in a bright emission/reflection nebula riddled by filaments of dark nebula.&lt;/p&gt;</description>
       
     </item>
