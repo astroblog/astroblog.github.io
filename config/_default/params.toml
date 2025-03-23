@@ -12,7 +12,7 @@ defaultBackgroundImage = "ic410background"
 #defaultFeaturedImage = "avatar.jpg"  #if this is set, it is used on homepage as feature image for each article, 
 #                                      but is NOT used as background image on article page
 
-
+showComments = true    # include contents partial after article footer
 
 [header]
 layout = "fixed"
