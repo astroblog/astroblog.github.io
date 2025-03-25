@@ -1,4 +1,4 @@
----
+------
 date: 2022-10-15
 title: "The Iris Nebula"
 categories:
@@ -7,15 +7,17 @@ tags:
 - ngc7023
 ---
 
-The Iris Nebula NGC 7023 looks like a celestial blossom. It is a bright reflection nebula whose trademark glowing blue color results from the scattered light of its central star.
-
 
 <!--more-->
- Located some 1,400 light-years away from Earth, the Iris Nebula’s glowing gaseous petal-like structure is roughly 6 light-years across.
+The Iris Nebula NGC 7023 looks like a celestial blossom. It is a bright reflection nebula whose trademark glowing blue color results from the scattered light of its central star.
 
-_**Iris Nebula**_  &nbsp;&nbsp; (45 min total exposure Aug 31, 2022)<br>
-{{< explainpinch >}}
-{{< astroimage "ngc7023 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/ngc7023_2022-08-31T23_21_10_Stack_16bits_227frames_2724s_bin35pcB.jpg" >}}
+ Located some 1,400 light-years away from Earth, the Iris Nebula’s glowing gaseous petal-like structure is roughly 6 light-years across.
+{{< astroimage
+title="Iris Nebula|(45 min total exposure Aug 31, 2022)"
+   alt="ngc7023 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/ngc7023_2022-08-31T23_21_10_Stack_16bits_227frames_2724s_bin35pcB.jpg"
+   fsbutton="true"
+>}}
 
 An interesting characteristic of this object is that it appears surrounded by dark regions of cosmic dust, yet its central star makes the the nebula glow brightly through the dust, just like petals blooming from within the depths of the cosmos.
 

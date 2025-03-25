@@ -1,9 +1,9 @@
----
+------
 date: 2023-09-15
 title: "The Eagle Nebula"
 categories:
 - nebula
-- open
+- "open cluster"
 tags:
 - m16
 - ngc6611
@@ -15,10 +15,13 @@ The pillars and spire are collapsing clouds of dust and gas being sculpted by in
 
 <!--more-->
 Those newly-formed stars comprise the embedded star cluster NGC6611 and are the source that  creates  and lights up the cavity in the center of the nebula.
-
-_**The Eagle Nebula**_  &nbsp;&nbsp; (47 min total exposure Sep 9, 2023)<br>
-{{< explainnotes >}}
-{{< astroimage "m16 seen using Celestron RASA 8 And ZWO ASI183MC" "/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg" "/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2_notes.jpg" >}}<br>
+{{< astroimage
+title="The Eagle Nebula|(47 min total exposure Sep 9, 2023)"
+   alt="m16 seen using Celestron RASA 8 And ZWO ASI183MC"
+   img="/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg"
+   mouseover="/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2_notes.jpg"
+   fsbutton="true"
+>}}<br>
 
 
 Making out the figures suggested by names of astronomical objects is rather like imagining figures formed by clouds in the daytime sky. The eagle I see is viewed from below and is flying toward the right. It has an overly large head extending to the upper right. Its outstretched wings extend to the upper left and lower right, and its feet extend down.  Some people see the eagle plunging downward with the head at the bottom, the wings stretched right and left and the pillars of creation comprising its claws. Others have suggested that the nebula resembles a shamrock, or three-leaf clover. What do you see?
@@ -34,15 +37,17 @@ Making out the figures suggested by names of astronomical objects is rather like
     * For the Hubble “Pillars” image, light from singly-ionized sulphur shows as red, light from neutral hydrogen  shows as green, and light from doubly-ionized oxygen shows as blue.
     * My images are taken with a "One-shot color" camera and show actual colors you would see if you could see something as faint as the nebula.
 
----
-date: 2023-09-15
-title: "The Eagle Nebula"
-categories:
-- nebula
-- open
-tags:
-- m16
-- ngc6611
+-----
+## An unusual view
+I've used a special software program to remove the stars from the picture and let us see what the nebula itself looks like without the distraction of the foreground stars and the embedded star cluster.  I think it looks quite spooky, perhaps like the entrance of a cave.
+{{< astroimage
+   title="The Eagle Nebula minus stars|(47 min total exposure Sep 9, 2023)"
+   alt="starless seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/starless_m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2crop+ASb2.jpg"
+   fsbutton="true"
+>}}
+
+
 -----
 {{% smalltext %}}One of my earliest  blog posts three years ago was also a look at the Eagle Nebula.
 In those  days I was discovering what could be seen with relatively short exposures, what is known as EAA (electronically assisted astronomy). More recently I have transitioned into what is properly described as astrophotography, taking longer exposures  and developing more skill at processing them.

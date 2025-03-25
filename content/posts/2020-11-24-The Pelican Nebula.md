@@ -1,4 +1,4 @@
----
+------
 date: 2020-11-24
 title: "The Pelican Nebula"
 categories:
@@ -10,9 +10,12 @@ The Pelican Nebula (also known as IC 5070) is an emission nebula whose outlines 
 
 
 <!--more-->
- _**The Pelican Nebula (IC 5070)**_&nbsp;&nbsp; (33 min total exposure Nov 16, 2020)<br>
- {{< explainpinch >}}
-{{< astroimage "ic5070 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/ic5070_2020-11-16T18_41_34_Stack_16bits_660frames_1980s_bin50pc.jpg" >}}
+{{< astroimage
+title="The Pelican Nebula (IC 5070)|(33 min total exposure Nov 16, 2020)"
+   alt="ic5070 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/ic5070_2020-11-16T18_41_34_Stack_16bits_660frames_1980s_bin50pc.jpg"
+   fsbutton="true"
+>}}
 
 This region of the Milky Way is a particularly active and chaotic mix of star formation and evolving gas clouds. The position and balance of the stars and gas will gradually change to leave the nebula looking completely different millions of years from now.
 

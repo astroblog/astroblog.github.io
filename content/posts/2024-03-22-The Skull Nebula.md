@@ -1,8 +1,8 @@
----
+------
 date: 2024-03-22
 title: "The Skull Nebula"
 categories:
-- planetary
+- "planetary nebula"
 tags:
 - ngc246
 ---
@@ -14,15 +14,13 @@ The Skull Nebula is another example of the remains left by a dying Sun-like star
 The gas in the nebula’s leading edge moves in the same direction as the central star. As it collides with the interstellar medium, the gas slows down as is compressed. It becomes hotter and unstable, giving the nebula’s ring a brighter and sharper appearance and producing an asymmetric appearance. The material on the nebula’s trailing edge expands freely.  
    
 <br>
+{{< astroimage
+title="NGC 246|(92 min total exposure Jan 11, 2024)"
+   alt="NGC 246 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/NGC 246_2024-01-11T23_50_53_NinaSirLDFdF(277x20s=92m)_GraX+crop+siril+ASb2AC.jpg"
+>}}
+<br>
 
-_**NGC 246**_  &nbsp;&nbsp; (92 min total exposure Jan 11, 2024)<br>
-{{< explainpinch >}}
-{{< astroimage "NGC 246 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/NGC 246_2024-01-11T23_50_53_NinaSirLDFdF(277x20s=92m)_GraX+crop+siril+ASb2AC.jpg" >}}
-<br>
-<i><small><font color = "magenta" > (Click
-<a href = "/images/NGC 246_2024-01-11T23_50_53_NinaSirLDFdF(277x20s=92m)_GraX+crop+siril+ASb2AC.jpg">here </a>
-To show image full size, press ESC To Return.)</font></small></i>
-<br>
    
 The Skull Nebula is located about 1600 light-years away from us. It is a fairly small object -- it would take about eight of them lined up side by side to equal the apparent width of the full moon. It is relatively old for a planetary nebula, about 6,600 years. 
 

@@ -1,4 +1,4 @@
----
+------
 date: 2021-11-01
 title: "The Eastern Veil Nebula"
 categories:
@@ -8,13 +8,15 @@ tags:
 - ngc6995
 ---
 
-The Veil Nebula is a portion of the wispy wreckage of a supernova that exploded some eight thousand years ago.  Here we see the eastern portion.
-
 
 <!--more-->
-_**The Eastern Veil Nebula**_  &nbsp;&nbsp; (45 min total exposure Oct 27, 2021)<br>
-{{< explainpinch >}}
-{{< astroimage "ngc6992 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/ngc6992_2021-10-27T22_39_31_Stack_16bits_900frames_2700s_bin50pc.jpg" >}}
+The Veil Nebula is a portion of the wispy wreckage of a supernova that exploded some eight thousand years ago.  Here we see the eastern portion.
+{{< astroimage
+title="The Eastern Veil Nebula|(45 min total exposure Oct 27, 2021)"
+   alt="ngc6992 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/ngc6992_2021-10-27T22_39_31_Stack_16bits_900frames_2700s_bin50pc.jpg"
+   fsbutton="true"
+>}}
 <br>
 
 Around 6000 BC, not too long before the Egyptians built their first pyramid, a supergiant star some twenty times more massive than the Sun collapsed and rebounded in a spectacular supernova explosion. A glowing remnant, the Veil Nebula, has been expanding in the death-star's wake ever since. 

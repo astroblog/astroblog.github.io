@@ -1,4 +1,4 @@
----
+------
 date: 2024-12-14
 title: "The Lobster Nebula"
 categories:
@@ -7,17 +7,23 @@ tags:
 - ngc6357
 ---
   
-I don't think it will overly tax your imagination to see why NGC 6357 is nicknamed the Lobster Nebula. Or perhaps you think it  resemblances a crab more?
 
+<!--more-->
+I don't think it will overly tax your imagination to see why NGC 6357 is nicknamed the Lobster Nebula. Or perhaps you think it  resemblances a crab more?
+  
 <!--more-->
 As an alternative to the Lobster, some astronomers see a skull and a dove, leading to the nebula’s other nickname: the War and Peace Nebula.
 (Personally, I have trouble seeing this one -- do you?)
- 
-{{< explainpinch >}}
-{{< titledastroimage alt="NGC 6357 seen using Celestron RASA 8 and ZWO ASI183MC" 
+   
+<br>
+{{< astroimage
 title="NGC 6357|(164 min total exposure Aug 24+25+26, 2024)"
-img="/images/NGC 6357_2024-08-24+25+26_NinaSirLDF(491x20s=164m)_grax_bge+SirilcropCC+CCs8d5+sirilB+AP2.jpg"
-fsbutton="true" >}}
+   alt="NGC 6357 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/NGC 6357_2024-08-24+25+26_NinaSirLDF(491x20s=164m)_grax_bge+SirilcropCC+CCs8d5+sirilB+AP2.jpg"
+   fsbutton="true"
+>}}
+   
+<br>
 
 Lobsters or crabs aside, here are some other tidbits about NGC 6357:
 

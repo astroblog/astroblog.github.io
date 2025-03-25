@@ -1,4 +1,4 @@
----
+------
 date: 2024-03-01
 title: "The Jellyfish Nebula"
 categories:
@@ -7,24 +7,23 @@ tags:
 - ic443
 ---
   
-The Jellyfish Nebula gets its name from its striking resemblance to the graceful tendrils of a jellyfish swimming through the cosmic sea. It is a testament to the dynamic and chaotic nature of the universe, where destruction begets creation on a mind boggling scale. 
-  
 
 <!--more-->
+The Jellyfish Nebula gets its name from its striking resemblance to the graceful tendrils of a jellyfish swimming through the cosmic sea. It is a testament to the dynamic and chaotic nature of the universe, where destruction begets creation on a mind boggling scale. 
+  
 <!--more-->
 The Jellyfish (properly known as IC 443), located in the constellation Gemini, is a supernova remnant, the celestial echo of a massive stellar explosion that occurred between 3000 and 30,000 years ago. The remnants of this cataclysmic event have given rise to a stunning display of nebulous structures for us to admire from our vantage point here on Earth.
 
    
 <br>
+{{< astroimage
+title="IC 443 (Jellyfish Nebula)|(56 min total exposure Feb 7, 2024)"
+   alt="ic443 Jellyfish seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/ic443 Jellyfish_2024-02-07T05_19_00_NinaSirLDF(169x20s=56m)_prc2+ASAC.jpg"
+   fsbutton="true"
+>}}
+<br>
 
-_**IC 443 (Jellyfish Nebula)**_  &nbsp;&nbsp; (56 min total exposure Feb 7, 2024)<br>
-{{< explainpinch >}}
-{{< astroimage "ic443 Jellyfish seen using Celestron RASA 8 and ZWO ASI183MC" "/images/ic443 Jellyfish_2024-02-07T05_19_00_NinaSirLDF(169x20s=56m)_prc2+ASAC.jpg" >}}
-<br>
-<i><small><font color = "magenta" > (Click
-<a href = "/images/ic443 Jellyfish_2024-02-07T05_19_00_NinaSirLDF(169x20s=56m)_prc2+ASAC.jpg">here </a>
-To show image full size, press ESC To Return.)</font></small></i>
-<br>
 
 The Jellyfish Nebula is a fairly large object, appearing about 1.7 times the diameter of the moon. At the estimated distance of 5,000 light years from Earth, that corresponds to a physical size of roughly 70 light years. 
 

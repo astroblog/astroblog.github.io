@@ -1,23 +1,28 @@
----
+------
 date: 2024-12-01
 title: "The Butterfly Nebula"
 categories:
 - nebula
-- open
+- "open cluster"
 tags:
 - ic1318
 - ngc6910
 ---
 Near the bright star Sadr (grossly over exposed in the image) at the center of the Northern Cross lies the Butterfly Nebula. Its nickname comes from its intricate shape that somewhat resembles a butterfly with its delicate wings outstretched.
 <!--more-->
+   
 
-{{< explainpinch >}}
-{{< titledastroimage 
+<!--more-->
+<br>
+{{< astroimage
 title="IC 1318|(45 min total exposure Oct 19, 2023)"
-alt="ic1318 seen using Celestron RASA 8 and ZWO ASI183MC"
-img="/images/ic1318_2023-10-19T02_29_02_NinaSirLDFdF(135x20s=45m)_graxp_4xmosaic+CCds_crop+starnet+AP2_25pct.jpg"
-fsbutton="true"
+   alt="ic1318 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/ic1318_2023-10-19T02_29_02_NinaSirLDFdF(135x20s=45m)_graxp_4xmosaic+CCds_crop+starnet+AP2_25pct.jpg"
+   fsbutton="true"
 >}}
+<br>
+
+<br>
 
 The Butterfly is officially cataloged as IC 1318. 
 Note some of the subtle yet intricate details. 

@@ -1,4 +1,4 @@
----
+------
 date: 2024-01-01
 title: "The Helix Nebula"
 categories:
@@ -11,13 +11,13 @@ The star expels its outer layers of gas, leaving only its small, hot core. Radia
 
 
 <!--more-->
-_**The Helix Nebula (NGC 7293)**_  &nbsp;&nbsp; (82 min total exposure Oct 19 and Dec 15, 2023)<br>
-{{< explainpinch >}}
-{{< astroimage "NGC 7293 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/NGC 7293_2023-10-19T04_15_27+2023-12-15NinaSirLDF(246x20s=82m)+sirilstarnet+ASAC.jpg" >}}
-<i><small><font color = "magenta" > (Click
-<a href = "/images/NGC 7293_2023-10-19T04_15_27+2023-12-15NinaSirLDF(246x20s=82m)+sirilstarnet+ASAC.jpg">here </a>
-to show image full size; press ESC To Return.)</font></small></i>
-<br>
+{{< astroimage
+title="The Helix Nebula (NGC 7293)|(82 min total exposure Oct 19 and Dec 15, 2023)"
+   alt="NGC 7293 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/NGC 7293_2023-10-19T04_15_27+2023-12-15NinaSirLDF(246x20s=82m)+sirilstarnet+ASAC.jpg"
+   fsbutton="true"
+>}}
+
 
 
 The Helix Nebula's most distinctive feature is its circular appearance, resembling a colossal eye peering into the depths of space. 

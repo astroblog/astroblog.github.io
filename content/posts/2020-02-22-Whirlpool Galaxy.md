@@ -1,4 +1,4 @@
----
+------
 date: 2020-02-22
 title: "The Whirlpool Galaxy"
 categories:
@@ -13,10 +13,16 @@ The Whirlpool Galaxy is interacting with a smaller companion, NGC 5195, a dwarf 
 
 
 <!--more-->
-_**The first image is a wide-field view**_<br>
-{{< explainpinch >}}
-{{< astroimage "m51 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/m51_2020-02-22T01_03_31_Stack_16bits_202frames_606s 200527.jpg" >}}
 
-_**This second image is a more close-up view of M51**_<br>
-{{< explainpinch >}}
-{{< astroimage "m51 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/m51_2020-02-22T01_03_31_Stack_16bits_202frames_606s_close.jpg" >}}
+{{< astroimage
+   title="The first image is a wide-field view|"
+   alt="m51 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/m51_2020-02-22T01_03_31_Stack_16bits_202frames_606s 200527.jpg"
+>}}
+
+&nbsp;<br>
+{{< astroimage
+   title="This second image is a more close-up view of M51|"
+   alt="m51 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/m51_2020-02-22T01_03_31_Stack_16bits_202frames_606s_close.jpg"
+>}}

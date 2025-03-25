@@ -1,4 +1,4 @@
----
+------
 date: 2023-05-08
 title: "The Rosette Nebula"
 categories:
@@ -14,10 +14,12 @@ The Rosette Nebula is one of the more spectacular nebulae in the night sky. It i
 The nebula is known as NGC 2237 while the star cluster at its center is NGC 2244. The nebula more than lives up to its informal nickname, as its circular shape and deep, dark centre gives it a floral appearance.
 
 You will notice that dense pockets and lanes of dust create striking dark silhouettes across the Rosette.  
-
-_**Rosette Nebula**_  &nbsp;&nbsp; (30 min total exposure Apr 20, 2023)<br>
-{{< explainpinch >}}
-{{< astroimage "ngc2237 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/ngc2237_2023-04-20T21_34_52_Stack_16bits_90frames_1800s_bin25pc_st8+AS+ZPS.jpg" >}}
+{{< astroimage
+title="Rosette Nebula|(30 min total exposure Apr 20, 2023)"
+   alt="ngc2237 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/ngc2237_2023-04-20T21_34_52_Stack_16bits_90frames_1800s_bin25pc_st8+AS+ZPS.jpg"
+   fsbutton="true"
+>}}
 
 While the central cluster is easily seen in almost any telescope, it requires photography to make out the nebula.
 

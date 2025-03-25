@@ -7,17 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/c2019y4/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Comet C/2019 Y4 ATLAS</title>
-      <link>http://localhost:1313/posts/2020-05-01-comet-atlas/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/2020-05-01-comet-atlas/</guid>
-      <description>&lt;p&gt;Comet C/2019 Y4 ATLAS has been a big disappointment.  It was discovered just four months ago, on December 28, 2019.  Initially it brightened much more quickly than expected, and there were hopes that it might reach naked-eye visibility in late May when it will pass closest to the sun and to the earth.  However its nucleus was observed to fragment by early April, and as a result it started getting dimmer instead of brighter. You can see pictures of the fragments taken by the Hubble Space Telescope by clicking on &lt;a href=&#34;https://astronomy.com/news/2020/05/hubble-captures-breakup-of-comet-atlas&#34; target=&#34;_blank&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;</description>
-      
-    </item>
+    <atom:link href="http://localhost:1313/tags/c2019y4/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

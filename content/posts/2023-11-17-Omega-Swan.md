@@ -1,4 +1,4 @@
----
+------
 date: 2023-11-17
 title: "The Omega Nebula"
 categories:
@@ -9,18 +9,17 @@ tags:
 - ic4707
 ---
 
-M17, another vast region of interstellar gas and dust, is most commonly known as the Omega Nebula or the Swan Nebula. The complex measures 15 light-years across and is about 5,000 light-years from Earth. 
-
-
 
 <!--more-->
-_**M17, the Omega (or Swan) Nebula**_  &nbsp;&nbsp; (59 min total exposure Oct 13, 2023)<br>
-{{< explainnotes >}}
-{{< astroimage "m17 seen using Celestron RASA 8 And ZWO ASI183MC" "/images/m17_2023-10-13T00_03_02_NinaSirLDFdF(177x20s=59m)_GraX_crop+sirilstarnetB+ASAC+PSE.jpg" "/images/m17_2023-10-13T00_03_02_NinaSirLDFdF(177x20s=59m)_GraX_crop+sirilstarnetB+ASAC+PSE_notes.jpg" >}}
-<i><small><font color="magenta"> (Click 
-<a href="/images/m17_2023-10-13T00_03_02_NinaSirLDFdF(177x20s=59m)_GraX_crop+sirilstarnetB+ASAC+PSE.jpg"> here</a>
-to show image full size, press ESC to return.)</font></small></i>
-<br>
+M17, another vast region of interstellar gas and dust, is most commonly known as the Omega Nebula or the Swan Nebula. The complex measures 15 light-years across and is about 5,000 light-years from Earth. 
+{{< astroimage
+title="M17, the Omega (or Swan) Nebula|(59 min total exposure Oct 13, 2023)"
+   alt="m17 seen using Celestron RASA 8 And ZWO ASI183MC"
+   img="/images/m17_2023-10-13T00_03_02_NinaSirLDFdF(177x20s=59m)_GraX_crop+sirilstarnetB+ASAC+PSE.jpg"
+   mouseover="/images/m17_2023-10-13T00_03_02_NinaSirLDFdF(177x20s=59m)_GraX_crop+sirilstarnetB+ASAC+PSE_notes.jpg"
+   fsbutton="true"
+>}}
+
 
 Glowing hydrogen gas is the primary source of the nebula's vibrant hues. Also visible are intricate filaments and tendrils of gas, woven like cosmic threads. The core of the nebula, where young, massive stars are born, appears as a concentrated brilliant region illuminating the surrounding nebulous material. The dark lanes and dusty regions within M17 contrast against the glowing background. They are potential sites for the formation of new stars.
 

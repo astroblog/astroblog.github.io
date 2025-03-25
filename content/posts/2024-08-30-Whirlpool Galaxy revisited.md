@@ -1,4 +1,4 @@
----
+------
 date: 2024-08-30
 title: "The Whirlpool Galaxy"
 categories:
@@ -8,21 +8,28 @@ tags:
 - ngc5195
 ---
 
+
+<!--more-->
 The Whirlpool Galaxy, also known as M51, 
 is a magnificent face-on spiral galaxy. 
 It is interacting with a smaller companion, NGC 5195, a dwarf galaxy connected to its larger neighbor by a tidal bridge of dust. The bridge is visible in the image silhouetted against the central region of the smaller galaxy. 
   
-
-<!--more-->
 <!--more-->
 The pair forms one of the prettiest objects in the sky.  Its intricate structure, dynamic interaction with a companion galaxy, and rich detail make it one of my favorites and you may have noticed that I use it as the avatar image at the top of each page of this blog.
 
-{{< explainpinch >}}
-{{< titledastroimage alt="m51 seen using Celestron RASA 8 and ZWO ASI183MC" 
-title="Whirlpool Galaxy (M51)|(88 min total exposure Aug 23 and 25, 2024)"
- img="/images/m51_2024-08-23+25_NinaSirLDFnorm(264x20s=88m)_GraXGdN+sirilstarnet+ap2+CCSD.jpg"
- fsbutton="true" >}}
 
+   
+<br>
+{{< astroimage
+title="Whirlpool Galaxy (M51)|(88 min total exposure Aug 23 and 25, 2024)"
+   alt="m51 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/m51_2024-08-23+25_NinaSirLDFnorm(264x20s=88m)_GraXGdN+sirilstarnet+ap2+CCSD.jpg"
+   fsbutton="true"
+>}}
+<br>
+
+
+   
 The location in the sky of the Whirlpool and its companion is close to the star at the end of the handle of the Big Dipper.
 Recent estimates of distance to the pair place them between 23 and 31 million light years from the earth.
 

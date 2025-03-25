@@ -1,4 +1,4 @@
----
+------
 date: 2022-03-01
 title: "The Orion Nebula and the Running Man"
 categories:
@@ -11,13 +11,16 @@ tags:
 - ngc1977
 ---
 
-Here's a fresh look at the wonderful Orion Nebula complex (M42 and M43) and the neighboring Running Man. Although I have shown both before, this new view shows how they are related to each other.  This is also a longer exposure than before and has been processed to reveal additional subtle detail.
-
 
 <!--more-->
-_**Orion Nebula and Running Man**_  &nbsp;&nbsp; (40 min total exposure Feb 28, 2022)<br>
- {{< explainnotes >}}
-{{< astroimage "m42+m43+ngc1973+ngc1981 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/m42+m43+ngc1973+ngc1981_2022-02-28T21_34_42_Stack_16bits_480frames_2400s_bin25pc_hdroptB.jpg" "/images/m42+m43+ngc1973+ngc1981_2022-02-28t21_34_42_stack_16bits_480frames_2400s_bin25pc_hdroptb_notes.jpg" >}}<br>
+Here's a fresh look at the wonderful Orion Nebula complex (M42 and M43) and the neighboring Running Man. Although I have shown both before, this new view shows how they are related to each other.  This is also a longer exposure than before and has been processed to reveal additional subtle detail.
+{{< astroimage
+title="Orion Nebula and Running Man|(40 min total exposure Feb 28, 2022)"
+   alt="m42+m43+ngc1973+ngc1981 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/m42+m43+ngc1973+ngc1981_2022-02-28T21_34_42_Stack_16bits_480frames_2400s_bin25pc_hdroptB.jpg"
+   mouseover="/images/m42+m43+ngc1973+ngc1981_2022-02-28t21_34_42_stack_16bits_480frames_2400s_bin25pc_hdroptb_notes.jpg"
+   fsbutton="true"
+>}}<br>
 
 The Orion Nebula (M42) is an enormous cloud of gas and dust, one of many in our Milky Way galaxy. It lies roughly 1,300 light-years from Earth. At some 30 to 40 light-years in diameter, this great big nebulous cocoon is giving birth to perhaps a thousand stars.  But most of the stars in this emerging cluster are hidden behind the nebula itself. M43 is actually a part of M42 but was assigned a separate identifier because in early telescopes it looked like a separate object.
 
@@ -28,93 +31,25 @@ The Running Man nebula comprises three separate reflection nebulae, NGC 1973, NG
 
 Reflection nebulae don't emit light of their own, instead they are made of dust that is lit up by nearby embedded young stars.
 
----
-date: 2022-03-01
-title: "The Orion Nebula and the Running Man"
-categories:
-- nebula
-tags:
-- m42
-- m43
-- ngc1973
-- ngc1975
-- ngc1977
-------
-date: 2022-03-01
-title: "The Orion Nebula and the Running Man"
-categories:
-- nebula
-tags:
-- m42
-- m43
-- ngc1973
-- ngc1975
-- ngc1977
-------
-date: 2022-03-01
-title: "The Orion Nebula and the Running Man"
-categories:
-- nebula
-tags:
-- m42
-- m43
-- ngc1973
-- ngc1975
-- ngc1977
-------
-date: 2022-03-01
-title: "The Orion Nebula and the Running Man"
-categories:
-- nebula
-tags:
-- m42
-- m43
-- ngc1973
-- ngc1975
-- ngc1977
-------
-date: 2022-03-01
-title: "The Orion Nebula and the Running Man"
-categories:
-- nebula
-tags:
-- m42
-- m43
-- ngc1973
-- ngc1975
-- ngc1977
------
+---------------
+
+I processed the same image more aggressively in order to bring out more subtle details and filaments:
+{{< astroimage
+   alt="m42+m43+ngc1973+ngc1981 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/m42+m43+ngc1973+ngc1981_2022-02-28T21_34_42_Stack_16bits_480frames_2400s_bin25pc_hdreq.jpg"
+>}}
+
+-----------------
 
 The four brightest stars at the heart of the Orion Nebula are known as The Trapezium. The light of the young, hot Trapezium stars illuminates the Orion Nebula. The following image is enlarged 4 times the scale of the previous images and has been processed to reveal the trapezium stars instead of having them be washed out by the bright heart of the Orion Nebula.
 
 The four Trapezium stars are known as Theta<sup>1</sup> Orionis, and the 3 similarly bright stars to the left of the Trapezium are known as Theta<sup>2</sup> Orionis. In a larger telescope two of the Trapezium stars can be resolved into their component binary systems, giving a total of six stars. 
+{{< astroimage
+   alt="m42+m43+ngc1973+ngc1981 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/m42+m43+ngc1973+ngc1981_2022-02-28T21_34_42_Stack_16bits_480frames_2400s_nobin_Theta.jpg"
+>}}
 
-_**Theta<sup>2</sup> Orionis and the Trapezium**_  &nbsp;&nbsp; (40 min total exposure Feb 28, 2022)<br>
-{{< astroimage "m42+m43+ngc1973+ngc1981 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/m42+m43+ngc1973+ngc1981_2022-02-28T21_34_42_Stack_16bits_480frames_2400s_nobin_Theta.jpg" >}}
-
----
-date: 2022-03-01
-title: "The Orion Nebula and the Running Man"
-categories:
-- nebula
-tags:
-- m42
-- m43
-- ngc1973
-- ngc1975
-- ngc1977
-------
-date: 2022-03-01
-title: "The Orion Nebula and the Running Man"
-categories:
-- nebula
-tags:
-- m42
-- m43
-- ngc1973
-- ngc1975
-- ngc1977
--------
+----------------
 
 Click [here]({{< relref "2020-02-03-Orion Nebula.md" >}}) 
 to see my previous post of the Orion Nebula  and 

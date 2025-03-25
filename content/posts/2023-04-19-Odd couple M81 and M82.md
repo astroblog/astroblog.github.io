@@ -1,4 +1,4 @@
----
+------
 date: 2023-04-19
 title: "The Odd Couple - Galaxies M82 and M81"
 categories:
@@ -13,9 +13,11 @@ M82 is an irregular edge-on galaxy that shows red gas and dark clouds. Its neigh
 
 
 <!--more-->
-_**M82 and M81**_  &nbsp;&nbsp; (45 min total exposure Apr 18, 2023)<br>
-{{< explainpinch >}}
-{{< astroimage "m81+m82 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/m81+m82_2023-04-18T23_29_12_Stack_16bits_135frames_2700s_bin50pc.jpg" >}}
+{{< astroimage
+title="M82 and M81|(45 min total exposure Apr 18, 2023)"
+   alt="m81+m82 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/m81+m82_2023-04-18T23_29_12_Stack_16bits_135frames_2700s_bin50pc.jpg"
+>}}
 
 M82 (also known as the Cigar galaxy) and M81 (also known as Bode's galaxy) are about 12 million light years away from us. They are the largest members in a group of 34 galaxies.
 

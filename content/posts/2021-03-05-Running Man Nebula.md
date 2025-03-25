@@ -1,9 +1,9 @@
----
+------
 date: 2021-03-05
 title: "The Running Man Nebula"
 categories:
 - nebula
-- open
+- "open cluster"
 tags:
 - ngc1973
 - ngc1975
@@ -14,9 +14,12 @@ Following a stretch of poor weather, I got a chance to take the telescope out ag
 
 
 <!--more-->
-_**The Running Man Nebula**_  &nbsp;&nbsp; (20 min total exposure Mar 3, 2021)<br>
-{{< explainnotes >}}
-{{< astroimage "Running Man Nebula as viewed by Celestron RASA 8" "/images/ngc1977+ngc1973+ngc1981+m43_2021-03-03T20_58_24_Stack_16bits_402frames_1206s_bin40pc.jpg" "/images/ngc1977+ngc1973+ngc1981+m43_2021-03-03t20_58_24_stack_16bits_402frames_1206s_bin40pc_notes.jpg" >}}
+{{< astroimage
+title="The Running Man Nebula|(20 min total exposure Mar 3, 2021)"
+   alt="Running Man Nebula as viewed by Celestron RASA 8"
+   img="/images/ngc1977+ngc1973+ngc1981+m43_2021-03-03T20_58_24_Stack_16bits_402frames_1206s_bin40pc.jpg"
+   mouseover="/images/ngc1977+ngc1973+ngc1981+m43_2021-03-03t20_58_24_stack_16bits_402frames_1206s_bin40pc_notes.jpg"
+>}}
 <br>
 
 The Running Man (sometimes called the Ghost Nebula) vaguely resembles the shape of a man sprinting, with his huge arms in motion.

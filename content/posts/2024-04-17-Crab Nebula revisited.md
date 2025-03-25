@@ -1,4 +1,4 @@
----
+------
 date: 2024-04-17
 title: "The Crab Nebula"
 categories:
@@ -7,26 +7,24 @@ tags:
 - m1
 ---
   
+
+<!--more-->
 M1, the Crab Nebula, is the debris left by the death of a massive star when it exploded in a brilliant flash of light and energy nearly a thousand years ago.
 We can see many intricate details in the remains left by that supernova -- wispy tendrils of gas and dust intertwine illuminated by the intense radiation emitted by the pulsar at its core. 
 
 
-
-<!--more-->
 <!--more-->
 Chinese astronomers noticed the appearance of a new star in July 1054. It was visible during the daytime for 23 days, shining six times  brighter than Venus at its peak. Anyone familiar with the night sky would have been able to see it for 653 days — almost two years — with the naked eye. Other observations of the explosion were recorded by Japanese, Arabic, and Native American stargazers.  Surprisingly, there is no record that any Europeans, mired in the middle of their Dark Ages, noticed the new star.
 
     
 <br>
+{{< astroimage
+title="M 1|(89 min total exposure Feb 8, 2024)"
+   alt="M 1 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/M 1_2024-02-08T01_03_53_NinaSirLDF(266x20s=89m)_GraX+starnet+AP.jpg"
+>}}
+<br>
 
-_**M 1**_  &nbsp;&nbsp; (89 min total exposure Feb 8, 2024)<br>
-{{< explainpinch >}}
-{{< astroimage "M 1 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/M 1_2024-02-08T01_03_53_NinaSirLDF(266x20s=89m)_GraX+starnet+AP.jpg" >}}
-<br>
-<i><small><font color = "magenta" > (Click
-<a href = "/images/M 1_2024-02-08T01_03_53_NinaSirLDF(266x20s=89m)_GraX+starnet+AP.jpg">here </a>
-To show image full size, press ESC To Return.)</font></small></i>
-<br>
  
 - The Crab is approximately 6,500 light-years away from Earth. 
 (A light-year is the distance light travels in one year, which is about 5.88 trillion miles.)

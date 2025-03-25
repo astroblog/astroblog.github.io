@@ -1,0 +1,13 @@
+{{ if .Get 2 }}
+    <!-- Mouseover image is provided -->
+    <img src="{{ .Get 1 }}" 
+         alt="{{ .Get 0 }}" 
+         onmouseover="this.src='{{ .Get 2 }}'" 
+         onmouseout="this.src='{{ .Get 1 }}'" 
+         style="cursor: pointer; max-width: 100%; height: auto;" />
+{{ else }}
+    <!-- Only regular image is provided -->
+    <img src="{{ .Get 1 }}" 
+         alt="{{ .Get 0 }}" 
+         style="cursor: pointer; max-width: 100%; height: auto;" />
+{{ end }}

@@ -1,36 +1,37 @@
----
+------
 date: 2025-02-15
 title: "The Skull and Crossbones Nebula"
-layout: "simple"
 categories:
 - nebula
-- open
+- "open cluster"
 tags:
 - ngc2467
-thumbnail: "ic410background.jpg"
-showComments: true
 ---
-  
-NGC 2467, also known as the "Skull and Crossbones Nebula," is a region where new stars are being born. Some people think it looks like a grinning skull, while others see the face of a colorful mandrill.
   
 
 <!--more-->
+NGC 2467, also known as the "Skull and Crossbones Nebula," is a region where new stars are being born. Some people think it looks like a grinning skull, while others see the face of a colorful mandrill.
+  
 <!--more-->
 Much like the brighter Orion Nebula, the Skull and Crossbones is composed of vast clouds of gas and dust within which hot new blue stars are forming. 
 
-{{< explainpinch >}}
-{{< titledastroimage alt="ngc2467 seen using Celestron RASA 8 and ZWO ASI183MC" img="/images/ngc2467_2025-01-30T02_32_05_NinaSirLDFdF(342x20s=114m)+SAS+asurf+AP2-Sup.jpg"
+<br>
+{{< astroimage
 title="NGC 2467 / Sh2-311|(114 min total exposure Jan 30, 2025)"
-fsbutton="true"
- >}}
-   
-{{< titledastroimage 
-title="Here's the brighter part of NGC 2467, annotated to show items of interest mentioned below"
-alt="ngc2467 seen using Celestron RASA 8 And ZWO ASI183MC" 
-img="/images/ngc2467_2025-01-30T02_32_05_NinaSirLDFdF(342x20s=114m)+SAS+asurf+AP2-Supcloser.jpg" 
-mouseover="/images/ngc2467_2025-01-30t02_32_05_ninasirldfdf(342x20s=114m)+sas+asurf+ap2-supcloser_notes.jpg" 
+   alt="ngc2467 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/ngc2467_2025-01-30T02_32_05_NinaSirLDFdF(342x20s=114m)+SAS+asurf+AP2-Sup.jpg"
+   fsbutton="true"
 >}}
+ 
+&nbsp;<br>
 
+{{< astroimage
+   title="Here's the brighter part of NGC 2467, annotated to show items of interest mentioned below|"
+   alt="ngc2467 seen using Celestron RASA 8 And ZWO ASI183MC"
+   img="/images/ngc2467_2025-01-30T02_32_05_NinaSirLDFdF(342x20s=114m)+SAS+asurf+AP2-Supcloser.jpg"
+   mouseover="/images/ngc2467_2025-01-30t02_32_05_ninasirldfdf(342x20s=114m)+sas+asurf+ap2-supcloser_notes.jpg"
+>}}
+ 
 ## Some tidbits about the Skull and Crossbones
 
 - This nebula is tricky to capture from my location because it sits low on the southern horizon and is only visible in late winter. Most of the detailed images you’ll find online were taken in the Southern Hemisphere, like in Chile or Australia, where it appears much higher in the sky.
@@ -70,5 +71,3 @@ Here are some interesting links to click on:
 - [Seeing things that aren't there](https://earthsky.org/human-world/seeing-things-that-arent-there/)
 - [Finding patterns in astronomical objects](https://chandra.harvard.edu/blog/node/472)
 - [Wikipedia article](https://en.wikipedia.org/wiki/Pareidolia)
-
-{{< smalldevice-invitation >}}

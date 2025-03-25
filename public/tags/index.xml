@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 - Howard Grams</copyright>
-    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Moon</title>
+      <link>http://localhost:1313/tags/moon/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/moon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ic410</title>
+      <link>http://localhost:1313/tags/ic410/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ic410/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ngc1893</title>
+      <link>http://localhost:1313/tags/ngc1893/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ngc1893/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Ngc2467</title>
@@ -195,6 +225,66 @@
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/ngc7293/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Collinder26</title>
+      <link>http://localhost:1313/tags/collinder26/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/collinder26/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Collinder399</title>
+      <link>http://localhost:1313/tags/collinder399/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/collinder399/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ic1805</title>
+      <link>http://localhost:1313/tags/ic1805/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ic1805/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ic1848</title>
+      <link>http://localhost:1313/tags/ic1848/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ic1848/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ic1871</title>
+      <link>http://localhost:1313/tags/ic1871/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ic1871/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ngc896</title>
+      <link>http://localhost:1313/tags/ngc896/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ngc896/</guid>
       <description></description>
       
     </item>
@@ -580,16 +670,6 @@
     </item>
     
     <item>
-      <title>---</title>
-      <link>http://localhost:1313/tags/---/</link>
-      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/---/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>B33</title>
       <link>http://localhost:1313/tags/b33/</link>
       <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
@@ -740,31 +820,11 @@
     </item>
     
     <item>
-      <title>Ic1805</title>
-      <link>http://localhost:1313/tags/ic1805/</link>
-      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ic1805/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Ngc1027</title>
       <link>http://localhost:1313/tags/ngc1027/</link>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/ngc1027/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ngc896</title>
-      <link>http://localhost:1313/tags/ngc896/</link>
-      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ngc896/</guid>
       <description></description>
       
     </item>
@@ -890,11 +950,11 @@
     </item>
     
     <item>
-      <title>C2020f3</title>
-      <link>http://localhost:1313/tags/c2020f3/</link>
+      <title>C/2020 F3</title>
+      <link>http://localhost:1313/tags/c/2020-f3/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/c2020f3/</guid>
+      <guid>http://localhost:1313/tags/c/2020-f3/</guid>
       <description></description>
       
     </item>
@@ -1120,11 +1180,11 @@
     </item>
     
     <item>
-      <title>C2019y4</title>
-      <link>http://localhost:1313/tags/c2019y4/</link>
+      <title>C/2019 Y4</title>
+      <link>http://localhost:1313/tags/c/2019-y4/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/c2019y4/</guid>
+      <guid>http://localhost:1313/tags/c/2019-y4/</guid>
       <description></description>
       
     </item>

@@ -1,9 +1,9 @@
----
+------
 date: 2023-10-15
 title: "The Tulip Nebula"
 categories:
 - nebula
-- open
+- "open cluster"
 tags:
 - sh2-101
 ---
@@ -15,11 +15,13 @@ While a pretty sight itself, the Tulip has an interesting neighbor.
 It was cataloged by American astronomer Stewart Sharpless in 1959 as Sharpless Sh2-101. 
 The nebula is about 6000 light-years from Earth, and 70 light-years across
 and glows as a result of powerful young stars ionising cosmic gas and causing it to emit light.
-
-
-_**Tulip Nebula**_  &nbsp;&nbsp; (60 min total exposure Oct 13, 2023)<br>
-{{< explainnotes >}}
-{{< astroimage "Sh2 101 seen using Celestron RASA 8 And ZWO ASI183MC" "/images/Sh2 101_2023-10-13T02_23_21_NinaSirLDFdF(180x20s=60m)_GraX+SirilStarnet+ASH.jpg" "/images/Sh2 101_2023-10-13T02_23_21_NinaSirLDFdF(180x20s=60m)_GraX+SirilStarnet+ASH_notes.jpg" >}}<br>
+{{< astroimage
+title="Tulip Nebula|(60 min total exposure Oct 13, 2023)"
+   alt="Sh2 101 seen using Celestron RASA 8 And ZWO ASI183MC"
+   img="/images/Sh2 101_2023-10-13T02_23_21_NinaSirLDFdF(180x20s=60m)_GraX+SirilStarnet+ASH.jpg"
+   mouseover="/images/Sh2 101_2023-10-13T02_23_21_NinaSirLDFdF(180x20s=60m)_GraX+SirilStarnet+ASH_notes.jpg"
+   fsbutton="true"
+>}}<br>
 
 
 An interesting feature of the Tulip Nebula is its nearby neighbor (as seen from our vantage point on Earth), the galactic X-ray source known as Cygnus X-1.  

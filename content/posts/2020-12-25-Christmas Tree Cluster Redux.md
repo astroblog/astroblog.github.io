@@ -1,9 +1,9 @@
----
+------
 date: 2020-12-25
 title: "The Christmas Tree Cluster"
 categories:
 - nebula
-- open
+- "open cluster"
 tags:
 - ngc2264
 ---
@@ -12,9 +12,12 @@ Christmas Tree Cluster, NGC 2264.
 
 
 <!--more-->
-_**The Christmas Tree Cluster**_ &nbsp;&nbsp; (30 min total exposure Apr 10, 2020)<br>
-{{< explainnotes >}}
-{{< astroimage "ngc 2264 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/ngc2264_2020-04-10T21_48_00_Stack_16bits_452frames_1808s+PSE.jpg" "/images/ngc2264_2020-04-10T21_48_00_Stack_16bits_452frames_1808s+PSE+notes.jpg" >}}
+{{< astroimage
+title="The Christmas Tree Cluster|(30 min total exposure Apr 10, 2020)"
+   alt="ngc 2264 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/ngc2264_2020-04-10T21_48_00_Stack_16bits_452frames_1808s+PSE.jpg"
+   mouseover="/images/ngc2264_2020-04-10T21_48_00_Stack_16bits_452frames_1808s+PSE+notes.jpg"
+>}}
 
 The bright variable star S Monocerotis (near the bottom) marks the base of the Christmas tree and lights up the nearby bluish nebulosity. Note the mottled dark patches that obscure part of what is sometimes called the Fox Fur Nebula.
 

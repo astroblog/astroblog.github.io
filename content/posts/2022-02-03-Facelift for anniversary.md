@@ -1,10 +1,6 @@
----
+------
 date: 2022-02-03
 title: "A facelift for our second anniversary"
-categories:
-- tags:
-tags:
-- ---
 ---
 
 

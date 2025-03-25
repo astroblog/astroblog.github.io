@@ -1,4 +1,4 @@
----
+------
 date: 2024-11-17
 title: "The Cat's Paw Nebula"
 categories:
@@ -7,22 +7,24 @@ tags:
 - ngc6334
 ---
   
+
+<!--more-->
 The lesser-known Cat's Paw Nebula (officially NGC 6334) is a region teeming with activity -- 
 another stellar nursery where stars are born from swirling contracting clouds of gas and dust.
   
-
-<!--more-->
 <!--more-->
 The nebula’s distinct shape, reminiscent of a feline paw print, has earned it its charming nickname.
    
 <br>
-
-{{< explainpinch >}}
-{{< titledastroimage alt="ngc6334 seen using Celestron RASA 8 and ZWO ASI183MC"
+{{< astroimage
 title="NGC 6334 (The Cat’s Paw Nebula)|(33 min total exposure Aug 24, 2024)"
-   fsbutton="true"
+   alt="ngc6334 seen using Celestron RASA 8 and ZWO ASI183MC"
    img="/images/ngc6334_2024-08-24T02_06_10_NinaSirLDF(100x20s=33m)_graxpert_bge+SirilCC+CCs+CCd+starnet+AP2.jpg"
-    >}}
+   fsbutton="true"
+>}}
+<br>
+
+
    
 
 This remarkable nebula lies about 5,500 light-years from Earth and is about 50 light-years across.

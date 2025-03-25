@@ -19,7 +19,7 @@ enableEmoji = true
 googleAnalytics = "G-FH26XXE6KD"
 
 [params.article]
-showComments = true
+showComments = true   # include contents partial after article footer
 
 
 [caches]

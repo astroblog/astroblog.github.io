@@ -1,4 +1,4 @@
----
+------
 date: 2022-01-30
 title: "The Horsehead and Flame - the big picture"
 categories:
@@ -12,14 +12,16 @@ tags:
 - b33
 ---
 
-Here's a fresh view showing both the Horsehead Nebula and the Flame Nebula, two celestial showpieces that are located quite close to each other in the constellation Orion.
-This past week we had a night with exceptionally clear and transparent skies. I was able to image a couple of new objects as well as take a fresh look at some old favorites. Among my old favorites, I can't resist reshowing the Horsehead and the Flame.
-
 
 <!--more-->
-_**Flame Nebula and Horsehead Nebula**_  &nbsp;&nbsp; (35 min total exposure Jan 27, 2022)<br>
- {{< explainnotes >}}
- {{< astroimage "Flame and Horsehead Nebulae seen using Celestron RASA 8 and ZWO ASI183MC" "/images/ngc2024_2022-01-27T00_07_19_Stack_16bits_421frames_2105s_bin50pc+pse.jpg" "/images/ngc2024_2022-01-27t00_07_19_stack_16bits_421frames_2105s_bin50pc+pse_notes.jpg" >}}<br>
+Here's a fresh view showing both the Horsehead Nebula and the Flame Nebula, two celestial showpieces that are located quite close to each other in the constellation Orion.
+This past week we had a night with exceptionally clear and transparent skies. I was able to image a couple of new objects as well as take a fresh look at some old favorites. Among my old favorites, I can't resist reshowing the Horsehead and the Flame.
+{{< astroimage
+title="Flame Nebula and Horsehead Nebula|(35 min total exposure Jan 27, 2022)"
+   alt="Flame and Horsehead Nebulae seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/ngc2024_2022-01-27T00_07_19_Stack_16bits_421frames_2105s_bin50pc+pse.jpg"
+   mouseover="/images/ngc2024_2022-01-27t00_07_19_stack_16bits_421frames_2105s_bin50pc+pse_notes.jpg"
+>}}<br>
 
 The Flame Nebula and the Horsehead Nebula are part of the Orion Molecular Cloud Complex, a large  star-forming region. They are separated from each other by about half a degree -- approximately the diameter of the full moon. The famous Orion Nebula is also a part of this complex.
 

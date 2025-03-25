@@ -1,4 +1,4 @@
----
+------
 date: 2022-11-05
 title: "The Elephant's Trunk Nebula"
 categories:
@@ -8,16 +8,17 @@ tags:
 - b161
 ---
 
-The Elephant's Trunk Nebula (IC 1396A) is a twisted sinuous structure of interstellar gas and dust that we see back-lit and ionized by intense radiation coming from a nearby massive star. Red light from ionized hydrogen makes it stand out amid the other streams and swirls of dark nebulae.
-
 
 <!--more-->
+The Elephant's Trunk Nebula (IC 1396A) is a twisted sinuous structure of interstellar gas and dust that we see back-lit and ionized by intense radiation coming from a nearby massive star. Red light from ionized hydrogen makes it stand out amid the other streams and swirls of dark nebulae.
+
  The Elephant's Trunk is about 2,400 lightyears away and extends about 25 lightyears, or almost 150 trillion miles left to right.
-
-
-_**Elephant's Trunk Nebula**_  &nbsp;&nbsp; (60 min total exposure Oct 23, 2022)<br>
-{{< explainpinch >}}
-{{< astroimage "ic1396 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/ic1396_2022-10-23T20_47_52_Stack_16bits_360frames_3600s_bin50pc+PSE.jpg" >}}
+{{< astroimage
+title="Elephant's Trunk Nebula|(60 min total exposure Oct 23, 2022)"
+   alt="ic1396 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/ic1396_2022-10-23T20_47_52_Stack_16bits_360frames_3600s_bin50pc+PSE.jpg"
+   fsbutton="true"
+>}}
 
 The Elephant's Trunk Nebula is a small part of the much larger IC 1396 emission nebula that is more than 100 light years across. 
 

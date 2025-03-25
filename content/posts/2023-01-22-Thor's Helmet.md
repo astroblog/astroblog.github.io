@@ -1,4 +1,4 @@
----
+------
 date: 2023-01-22
 title: "Thor's Helmet"
 categories:
@@ -10,9 +10,11 @@ I never cease to be amazed at the imagination shown by astronomers over the year
 
 
 <!--more-->
-_**Thor's Helmet (NGC 2359)**_  &nbsp;&nbsp; (110 min total exposure Jan 15, 2023)<br>
-{{< explainpinch >}}
-{{< astroimage "ngc2359 seen using Celestron RASA 8 and ZWO ASI183MC" "/images/ngc2359_2023-01-15T22_16_56_Stack_16bits_660frames_6600s_bin50pc-B.jpg" >}}
+{{< astroimage
+title="Thor's Helmet (NGC 2359)|(110 min total exposure Jan 15, 2023)"
+   alt="ngc2359 seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/ngc2359_2023-01-15T22_16_56_Stack_16bits_660frames_6600s_bin50pc-B.jpg"
+>}}
 
 
 <img src = "/images/Thor.jpg"

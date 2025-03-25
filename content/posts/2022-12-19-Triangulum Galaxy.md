@@ -1,4 +1,4 @@
----
+------
 date: 2022-12-19
 title: "The Triangulum Galaxy"
 categories:
@@ -11,9 +11,12 @@ The Triangulum Galaxy (also known as the Pinwheel Galaxy or M33) is the third la
 
 
 <!--more-->
-_**The Triangulum Galaxy (M33)**_  &nbsp;&nbsp; (75 min total exposure Dec 18, 2022)<br>
-{{< explainnotes >}}
-{{< astroimage "m33 seen using Celestron RASA 8 And ZWO ASI183MC" "/images/m33_2022-12-18T21_17_43_Stack_16bits_450frames_4500s_bin25pc+PSE.jpg" "/images/m33_2022-12-18t21_17_43_stack_16bits_450frames_4500s_bin25pc+pse_notes.jpg" >}}<br>
+{{< astroimage
+title="The Triangulum Galaxy (M33)|(75 min total exposure Dec 18, 2022)"
+   alt="m33 seen using Celestron RASA 8 And ZWO ASI183MC"
+   img="/images/m33_2022-12-18T21_17_43_Stack_16bits_450frames_4500s_bin25pc+PSE.jpg"
+   mouseover="/images/m33_2022-12-18t21_17_43_stack_16bits_450frames_4500s_bin25pc+pse_notes.jpg"
+>}}<br>
 
 The most prominent features in M33 are the two mottled inner spiral arms arranged in a backward S. Each arm of the S has a central core of dark dust.  The bright central core of the galaxy is not as prominent as it is in many other spiral galaxies.
 

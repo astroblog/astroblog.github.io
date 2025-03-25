@@ -80,6 +80,7 @@
         {{ partial "series/series.html" . }}
 
         <div class="article-content max-w-full mb-20">
+          {{ warnf "DEBUG: single.html Rendering content for %s" .Title }}
           {{ .Content }}
           {{ $defaultReplyByEmail := .Site.Params.replyByEmail }}
           {{ $replyByEmail := default $defaultReplyByEmail .Params.replyByEmail }}
@@ -139,9 +140,11 @@
       {{ $jsPage = $jsPage | resources.Minify | resources.Fingerprint "sha512" }}
       <script type="text/javascript" src="{{ $jsPage.RelPermalink }}" integrity="{{ $jsPage.Data.Integrity }}"></script>
       {{ end }}
-  
+      {{ warnf "DEBUG: Rendering section for %s" .Title }}
     </section>
   <footer class="pt-8 max-w-full print:hidden">
+    {{ warnf "DEBUG: Rendering footer for %s" .Title }}
+
 
     {{ partial "article-pagination.html" . }}
     {{ if .Params.showComments | default (.Site.Params.article.showComments | default false) }}

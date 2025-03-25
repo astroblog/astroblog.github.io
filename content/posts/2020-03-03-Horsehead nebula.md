@@ -1,4 +1,4 @@
----
+------
 date: 2020-03-03
 title: "The Horsehead Nebula"
 categories:
@@ -12,5 +12,7 @@ The Horsehead Nebula consists of a cloud of ionized gas lit from within by young
 <!--more-->
 The Horsehead Nebula is a prime target for many amateur astronomers, despite the difficulty many have viewing it. Upgrades in technology have made observations easier with inexpensive equipment, but it can still be a challenge to pick out of the sky. Glare from a nearby star makes it difficult to spot, as does its small size. 
 
-{{< astroimage "Horsehead Nebula seen using Celestron RASA 8 and ZWO ASI183MC" "/images/ic434, 2020-02-28, 8x300L ASTAP_stacked 200620.jpg" >}}
-{{< explainpinch >}}
+{{< astroimage
+   alt="Horsehead Nebula seen using Celestron RASA 8 and ZWO ASI183MC"
+   img="/images/ic434, 2020-02-28, 8x300L ASTAP_stacked 200620.jpg"
+>}}
