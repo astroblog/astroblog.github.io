@@ -6,9 +6,7 @@ categories:
 tags:
 - m5
 ---
-  
 
-<!--more-->
 I've only shown globular clusters twice before and the last time was two years ago.  It's past time for a fresh look.
 
 M5 is one of the largest and finest globulars in the sky.

@@ -8,9 +8,9 @@ tags:
 ---
 
 
-<!--more-->
 Finally, a new object worth sharing: 
 The Crescent Nebula is a faint, loop-shaped nebula forming a partial squashed circle.
+<!--more-->
 
 With the short nights and hazy summer skies, this time of year is not very favorable for amateur astronomers and our telescopes.
  But we finally had a decent clear moonless night earlier this week and I took advantage of it to observe this faint object.

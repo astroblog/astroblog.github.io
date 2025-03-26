@@ -8,8 +8,6 @@ tags:
 - m27
 ---
   
-
-<!--more-->
 The Dumbbell Nebula, also known as M27, is a stunning cloud of gas and dust, located about 1,360 light-years away from Earth. One of the brightest and most beautiful nebulae in the night sky, it is especially known for its vibrant colors and distinctive shape, which resembles a dumbbell or an hourglass.
   
 <!--more-->

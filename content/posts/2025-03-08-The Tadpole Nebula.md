@@ -9,8 +9,6 @@ tags:
 - ngc1893
 ---
   
-
-<!--more-->
 The Tadpole Nebula (**IC 410**) gets its name from two striking tadpole-shaped clouds of dark dust that appear to be swimming towards the center.
 These "tadpoles" are dense streams of gas and dust, each stretching about 10 lightyears. Within them, new stars may be forming, hidden inside their thick cocoons.
   

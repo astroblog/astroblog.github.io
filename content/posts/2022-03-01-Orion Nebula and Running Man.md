@@ -12,8 +12,8 @@ tags:
 ---
 
 
-<!--more-->
 Here's a fresh look at the wonderful Orion Nebula complex (M42 and M43) and the neighboring Running Man. Although I have shown both before, this new view shows how they are related to each other.  This is also a longer exposure than before and has been processed to reveal additional subtle detail.
+<!--more-->
 {{< astroimage
 title="Orion Nebula and Running Man|(40 min total exposure Feb 28, 2022)"
    alt="m42+m43+ngc1973+ngc1981 seen using Celestron RASA 8 and ZWO ASI183MC"

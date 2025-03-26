@@ -24,14 +24,13 @@ or more properly, NGC 281. The nebula has several dozen stars at the center, the
    img="/images/ngc281_2021-01-14T19_23_33_Stack_16bits_240frames_1200s_bin30pc.jpg"
 >}}
 
-<img src = "https://media4.giphy.com/media/A8NkSPltT13H2/giphy.gif"
-alt = "pacman"
-width="175" height="120"
-align=left
-/>
+
+{{< image-wrap src="https://media4.giphy.com/media/A8NkSPltT13H2/giphy.gif" alt="pacman" width="175px" >}}
 Why the name Pacman Nebula??  Well, anyone over the age of 45 probably remembers PacMan, an early arcade and computer game that was introduced in 1980.
 The game was quite influential, and is commonly considered to be one of the greatest video games of all time. 
 The player controls Pac-Man, who must eat all the dots inside an enclosed maze while avoiding four colored ghosts. 
+{{< /image-wrap >}}
+
 
 <br>
 

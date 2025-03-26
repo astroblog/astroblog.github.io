@@ -11,8 +11,8 @@ tags:
 ---
 
 
-<!--more-->
 NGC 4565, the Needle Galaxy, is one of the most prominent and famous edge-on spiral galaxies in the sky.
+<!--more-->
 
 You can easily see the bulging central hub and the large dust lane that cuts across the nucleus of the galaxy.  The dust blocks and reddens the light coming from the interior.  The galaxy is located about 30-50 million light years away from us.
 

@@ -7,13 +7,14 @@ categories:
 tags: 
 - ic1805 
 - ngc896 
-- collinder26 
+- c26 
 - ic1848 
 - ic1871 
-- collinder399
+- c399
 ---
 
 Is the heart and soul of our Galaxy located in the northern constellation Cassiopeia? Possibly not, but that is where two bright emission nebulas nicknamed Heart and Soul can be found -- soulmates you could say. (Groan)
+<!--more-->
 
 ### The Heart Nebula
 The Heart Nebula, named for the obvious valentine shape, is officially known as IC 1805.

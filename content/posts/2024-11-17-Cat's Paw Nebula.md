@@ -6,9 +6,7 @@ categories:
 tags:
 - ngc6334
 ---
-  
 
-<!--more-->
 The lesser-known Cat's Paw Nebula (officially NGC 6334) is a region teeming with activity -- 
 another stellar nursery where stars are born from swirling contracting clouds of gas and dust.
   

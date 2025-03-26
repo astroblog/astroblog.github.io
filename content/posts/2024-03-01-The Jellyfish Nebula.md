@@ -7,8 +7,6 @@ tags:
 - ic443
 ---
   
-
-<!--more-->
 The Jellyfish Nebula gets its name from its striking resemblance to the graceful tendrils of a jellyfish swimming through the cosmic sea. It is a testament to the dynamic and chaotic nature of the universe, where destruction begets creation on a mind boggling scale. 
   
 <!--more-->

@@ -9,8 +9,8 @@ tags:
 ---
 
 
-<!--more-->
 The Cocoon Nebula, IC 5146, is a cluster of stars involved in a bright emission/reflection nebula riddled by filaments of dark nebula. 
+<!--more-->
 
 The  Cocoon has a sort of  poppy-like appearance, with a central star giving the nebula a floral resemblance.
 That bright central star powers the intense nebular glow, and clears out a cavity in the areas of star-forming dust and gas.
@@ -21,7 +21,7 @@ title="Cocoon Nebula|(45 min total exposure Sep 1, 2022)"
 >}}
 
 Dark nebula B168, similar to those I featured in the previous post,  is an inseparable part of the scene, comprising a dark surround to the cluster and projecting down and to the left in this picture, giving the appearance of a trail behind the Cocoon. 
-
+<!--more-->
 Here's part of an image I took last year (rotated to match the orientation of the previous picture) that shows the full extent of B168.
 {{< astroimage
    title="Dark nebula B168|"

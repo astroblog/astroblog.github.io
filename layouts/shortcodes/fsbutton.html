@@ -1,0 +1,28 @@
+{{- $image := .Get 0 -}}
+
+<!-- Ensure the script is loaded once -->
+{{- if not (.Page.Scratch.Get "fullscreenbutton_loaded") -}}
+    <script src="{{ "js/viewImageFullscreen.js" | relURL }}"></script>
+    {{ .Page.Scratch.Set "fullscreenbutton_loaded" true }}
+{{- end -}}
+
+<!-- Render the button with data-image, and apply button styling classes -->
+<a href="#" class="js-fullscreen-button rounded bg-primary-600 px-4 py-2 text-neutral no-underline hover:bg-primary-500 dark:bg-primary-800 dark:hover:bg-primary-700" data-image="{{ $image }}" role="button">
+  View Fullscreen
+</a>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.querySelector(".js-fullscreen-button");
+    button.addEventListener("click", function(event) {
+      event.preventDefault();  // Prevent the default link behavior
+      const imageSrc = button.getAttribute("data-image");
+      if (typeof viewImageFullscreen === 'function') {
+        viewImageFullscreen(imageSrc);  // Call the fullscreen function
+      } else {
+        console.error("viewImageFullscreen function is not defined");
+      }
+    });
+  });
+</script>
+

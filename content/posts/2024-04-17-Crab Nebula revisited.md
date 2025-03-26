@@ -6,12 +6,9 @@ categories:
 tags:
 - m1
 ---
-  
 
-<!--more-->
 M1, the Crab Nebula, is the debris left by the death of a massive star when it exploded in a brilliant flash of light and energy nearly a thousand years ago.
 We can see many intricate details in the remains left by that supernova -- wispy tendrils of gas and dust intertwine illuminated by the intense radiation emitted by the pulsar at its core. 
-
 
 <!--more-->
 Chinese astronomers noticed the appearance of a new star in July 1054. It was visible during the daytime for 23 days, shining six times  brighter than Venus at its peak. Anyone familiar with the night sky would have been able to see it for 653 days — almost two years — with the naked eye. Other observations of the explosion were recorded by Japanese, Arabic, and Native American stargazers.  Surprisingly, there is no record that any Europeans, mired in the middle of their Dark Ages, noticed the new star.

@@ -13,7 +13,7 @@
   {{ end }}
   {{ end }}
 
-  <header id="single_header" class="mt-5 max-w-prose">
+  <header id="single_header" class="mt-5 max-w-full">
     {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
     {{ partial "breadcrumbs.html" . }}
     {{ end }}
@@ -80,21 +80,22 @@
         {{ partial "series/series.html" . }}
 
         <div class="article-content max-w-full mb-20">
-          {{ warnf "DEBUG: single.html Rendering content for %s" .Title }}
-          {{ .Content }}
-          {{ $defaultReplyByEmail := .Site.Params.replyByEmail }}
-          {{ $replyByEmail := default $defaultReplyByEmail .Params.replyByEmail }}
-          {{ if $replyByEmail }}
-            <strong class="block mt-8">
+            {{ .Content }}
+            {{ $defaultReplyByEmail := .Site.Params.replyByEmail }}
+            {{ $replyByEmail := default $defaultReplyByEmail .Params.replyByEmail }}
+            {{ if $replyByEmail }}
+            <div class="flex justify-center items-center gap-x-16 mt-8"> <!-- Adjust gap-x , but this isn't working -->
               <a target="_blank" 
-              class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-              href="mailto:{{ .Site.Params.Author.email }}?subject={{ replace (printf "Reply to %s" .Title) "\"" "'" }}">
-                Reply by Email
+                class="flex items-center m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+                href="mailto:{{ .Site.Params.Author.email }}?subject={{ replace (printf "Reply to %s" .Title) "\"" "'" }}">
+                {{ partial "icon.html" "envelope" }} 
+                <span class="ml-2">Send me an Email</span>
               </a>
-            </strong>
-          {{ end }}
-        </div>
-        
+              &nbsp;&nbsp;&nbsp;{{ partial "icon.html" "rss" }} 
+            </div>
+            {{ end }}
+          </div>
+                
         {{ if (.Params.showAuthorBottom | default ( .Site.Params.article.showAuthorBottom | default false)) }}
 
           {{ if .Params.showAuthor | default (.Site.Params.article.showAuthor | default true) }}
@@ -140,11 +141,9 @@
       {{ $jsPage = $jsPage | resources.Minify | resources.Fingerprint "sha512" }}
       <script type="text/javascript" src="{{ $jsPage.RelPermalink }}" integrity="{{ $jsPage.Data.Integrity }}"></script>
       {{ end }}
-      {{ warnf "DEBUG: Rendering section for %s" .Title }}
+  
     </section>
   <footer class="pt-8 max-w-full print:hidden">
-    {{ warnf "DEBUG: Rendering footer for %s" .Title }}
-
 
     {{ partial "article-pagination.html" . }}
     {{ if .Params.showComments | default (.Site.Params.article.showComments | default false) }}

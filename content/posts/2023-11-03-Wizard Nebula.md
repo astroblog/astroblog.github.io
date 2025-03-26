@@ -8,8 +8,8 @@ tags:
 ---
 
 
-<!--more-->
 The Wizard Nebula is a cosmic cloud surrounding open star cluster NGC 7380. Over the years it has earned its sorcerous nickname because of its similarity in appearance to a medieval magician in a pointed hat. (It does take a little imagination!)
+<!--more-->
 {{< astroimage
 title="The Wizard Nebula (NGC 7380)|(57 min total exposure Nov 2, 2023)"
    alt="NGC 7380 seen using Celestron RASA 8 and ZWO ASI183MC"

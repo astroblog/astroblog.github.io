@@ -6,9 +6,7 @@ categories:
 tags:
 - ngc2903
 ---
-  
 
-<!--more-->
 One of the brighter nearby galaxies, NGC 2903 was somehow missed by comet hunter Charles Messier when he compiled his famous list of objects not to be mistaken for comets.  Nonetheless, this barred spiral is an attractive telescopic object.
   
 <!--more-->

@@ -8,8 +8,6 @@ tags:
 - ngc5195
 ---
 
-
-<!--more-->
 The Whirlpool Galaxy, also known as M51, 
 is a magnificent face-on spiral galaxy. 
 It is interacting with a smaller companion, NGC 5195, a dwarf galaxy connected to its larger neighbor by a tidal bridge of dust. The bridge is visible in the image silhouetted against the central region of the smaller galaxy. 

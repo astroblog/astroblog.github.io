@@ -18,8 +18,8 @@ tags:
 ---
 
 
-<!--more-->
 And now, for something completely different. . .
+<!--more-->
 
 When early astronomer William Herschel (he discovered the planet Uranus in 1781) was studying the Milky Way, he reported that there appeared to be "a hole in the sky" in several places. The nature of these dark areas was not understood until the 1940s when Dutch-American astronomer Bart J. Bok proposed that they were areas of star formation, sometimes called dark nebulae. One such region is the molecular cloud Barnard 64. 
 Interestingly, it is found quite close to globular cluster M9. (Click [here]({{< relref "2020-05-26-Globular Clusters.md" >}}) to see my previous post about globular clusters.)

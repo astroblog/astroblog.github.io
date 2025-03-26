@@ -8,8 +8,8 @@ tags:
 ---
 
 
-<!--more-->
 Comet C/2019 Y4 ATLAS has been a big disappointment.  It was discovered just four months ago, on December 28, 2019.  Initially it brightened much more quickly than expected, and there were hopes that it might reach naked-eye visibility in late May when it will pass closest to the sun and to the earth.  However its nucleus was observed to fragment by early April, and as a result it started getting dimmer instead of brighter. You can see pictures of the fragments taken by the Hubble Space Telescope by clicking on [this link](https://astronomy.com/news/2020/05/hubble-captures-breakup-of-comet-atlas).
+<!--more-->
 
 Here are two pictures that I took 25 minutes apart on April 10 of Comet C/2019 Y4 ATLAS. You can easily see the comet's motion towards the lower left.
 

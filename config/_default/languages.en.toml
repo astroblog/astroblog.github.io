@@ -8,22 +8,22 @@ title = "Suburban Backyard Astro Sights"
   displayName = "EN"
   isoCode = "en"
   rtl = false
-dateFormat = "January 2, 2006"
-logo = "avatar.jpg"
+  dateFormat = "January 2, 2006"
+  logo = "m51.png"
   # secondaryLogo = "img/secondary-logo.png"
-description = "Sharing celestial wonders viewed from my backyard"
-copyright = "© { year } - Howard Grams"
+  description = "Sharing celestial wonders viewed from my backyard"
+  copyright = "All images and content on this website © { year } Howard Grams"
 
 # what this does is insert this author information at top of homepage
 [params.author]
 #   name = "Howard Grams"
-#   email = "youremail@example.com"
+   email = "hgastroblog@gmail.com"
 #  image = "img/blowfish_logo.png"
 #  imageQuality = 96
-  headline = "Sharing celestial wonders viewed from my backyard"
+  headline = "Sharing celestial wonders seen from my backyard"
 #  bio = "A little bit about you"
 #   links = [
-#     { email = "mailto:hello@your_domain.com" },
+#     { email = "mailto:hgastroblog@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

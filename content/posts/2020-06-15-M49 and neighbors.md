@@ -14,8 +14,8 @@ tags:
 ---
 
 
-<!--more-->
 Here is an interesting field of galaxies in the constellation Virgo.  The brightest is Messier 49, an elliptical galaxy.  It is perhaps five times larger than our Milky Way galaxy and about 60 million light years distant.  Since elliptical galaxies have no discernable structure, they just appear as fuzzy blobs.
+<!--more-->
 
 The very pretty spiral galaxy NGC 4535 that we see nearly face-on has two prominent arms arranged like the letter S.  It is a little closer, about 50 million light years distant.
 

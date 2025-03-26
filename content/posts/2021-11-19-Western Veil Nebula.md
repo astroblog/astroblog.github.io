@@ -8,8 +8,8 @@ tags:
 ---
 
 
-<!--more-->
 The large and extensive Veil Nebula deserves another look. Here we see another separate portion, the western part of the nebula.
+<!--more-->
 {{< astroimage
 title="The Western Veil Nebula|(45 min total exposure Oct 31, 2021)"
    alt="ngc6960 seen using Celestron RASA 8 and ZWO ASI183MC"

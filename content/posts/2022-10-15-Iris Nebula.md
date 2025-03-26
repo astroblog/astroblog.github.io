@@ -8,8 +8,8 @@ tags:
 ---
 
 
-<!--more-->
 The Iris Nebula NGC 7023 looks like a celestial blossom. It is a bright reflection nebula whose trademark glowing blue color results from the scattered light of its central star.
+<!--more-->
 
  Located some 1,400 light-years away from Earth, the Iris Nebula’s glowing gaseous petal-like structure is roughly 6 light-years across.
 {{< astroimage

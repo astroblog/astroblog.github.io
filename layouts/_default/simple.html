@@ -1,6 +1,6 @@
 {{ define "main" }}
   <article class="max-w-full">
-    {{ warnf "DEBUG: Rendering in simple.htm. for %s" .Title }}
+    {{ warnf "DEBUG: simple.html is rendering content for %s" .Title }}
     <header>
       {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
         {{ partial "breadcrumbs.html" . }}

@@ -33,12 +33,12 @@
 
 [[main]]
   name = "About me"
-  pageRef = "about"
+  pageRef = "aboutme"
   weight = 20
 
   [[main]]
   name = "About the pictures"
-  pageRef = "about"
+  pageRef = "aboutpix"
   weight = 20
 
 #[[subnavigation]]
@@ -52,10 +52,10 @@
 #  pageRef = "categories"
 #  weight = 20
 
-[[main]]
-  name = "Objects"
-  pageRef = "tags"
-  weight = 30
+#[[main]]
+#  name = "Objects"
+#  pageRef = "tags"
+#  weight = 30
 
 
 # -- Footer Menu --
@@ -63,12 +63,12 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+   name = "Object index"
+   pageRef = "tags"
+   weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[footer]]
+   name = "Category index"
+   pageRef = "categories"
+   weight = 20

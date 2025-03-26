@@ -13,8 +13,8 @@ tags:
 ---
 
 
-<!--more-->
 Here's a fresh view showing both the Horsehead Nebula and the Flame Nebula, two celestial showpieces that are located quite close to each other in the constellation Orion.
+<!--more-->
 This past week we had a night with exceptionally clear and transparent skies. I was able to image a couple of new objects as well as take a fresh look at some old favorites. Among my old favorites, I can't resist reshowing the Horsehead and the Flame.
 {{< astroimage
 title="Flame Nebula and Horsehead Nebula|(35 min total exposure Jan 27, 2022)"

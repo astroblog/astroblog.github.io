@@ -8,8 +8,6 @@ tags:
 - ngc2467
 ---
   
-
-<!--more-->
 NGC 2467, also known as the "Skull and Crossbones Nebula," is a region where new stars are being born. Some people think it looks like a grinning skull, while others see the face of a colorful mandrill.
   
 <!--more-->

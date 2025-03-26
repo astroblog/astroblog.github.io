@@ -25,7 +25,7 @@ function viewImageFullscreen(imageSrc) {
 
     // Add exit message
     const exitMessage = document.createElement('div');
-    exitMessage.textContent = 'Press ESC or click to exit fullscreen.';
+    exitMessage.textContent = 'Click or press ESC to exit fullscreen';
     exitMessage.style.position = 'absolute';
     exitMessage.style.bottom = '20px';
     exitMessage.style.left = '50%';
@@ -63,15 +63,20 @@ function viewImageFullscreen(imageSrc) {
 
     // Handler to restore state when exiting fullscreen
     function exitFullscreenHandler() {
+        const container = document.querySelector("div[style*='position: fixed']");
+        
         if (!document.fullscreenElement && !document.webkitFullscreenElement && !document.mozFullScreenElement && !document.msFullscreenElement) {
-            // If the user exited fullscreen, remove the fullscreen container
-            document.body.removeChild(container);
-
-            // Remove the event listeners to avoid memory leaks
+            if (container && container.parentNode === document.body) {
+                document.body.removeChild(container);
+                console.log("Container removed successfully.");
+            }
+    
+            // Remove event listeners to prevent memory leaks
             document.removeEventListener('fullscreenchange', exitFullscreenHandler);
             document.removeEventListener('webkitfullscreenchange', exitFullscreenHandler);
             document.removeEventListener('mozfullscreenchange', exitFullscreenHandler);
             document.removeEventListener('MSFullscreenChange', exitFullscreenHandler);
         }
     }
+     
 }

@@ -3,7 +3,7 @@ defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
-replyByEmail = false
+replyByEmail = true
 disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
@@ -11,9 +11,14 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 defaultBackgroundImage = "ic410background"
 #defaultFeaturedImage = "avatar.jpg"  #if this is set, it is used on homepage as feature image for each article, 
 #                                      but is NOT used as background image on article page
+disableImageZoom = true  # the default is false, which enables user to click on any image to zoom it
 
 [header]
-layout = "fixed"
+layout = "fixed-fill-blur"   # supported values are basic, fixed, fixed-fill, and fixed-fill-blur
+# with basic, the header is attached to the page and scrolls up and off the screen
+# with fixed, it stays in place but dark things on the page obscure it
+# with fixed-fill it stays but with white background and page does not obscure it
+# with fixed-fill-blurit starts with same background as page but turns white as page scrolls up
 
 [footer]
 showMenu = true
@@ -23,7 +28,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "background"
+layout = "background"  # Valid values are page, profile, hero, card, background, or custom. 
 showRecent = true
 showRecentItems = "6"
 showMoreLink = true
@@ -58,6 +63,7 @@ showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = true
 showZenMode = true
+#sharingLinks = [ "email", "twitter","facebook","telegram"]
 
 [list]
 showHero = false

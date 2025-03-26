@@ -9,8 +9,8 @@ tags:
 ---
 
 
-<!--more-->
 The Veil Nebula is a portion of the wispy wreckage of a supernova that exploded some eight thousand years ago.  Here we see the eastern portion.
+<!--more-->
 {{< astroimage
 title="The Eastern Veil Nebula|(45 min total exposure Oct 27, 2021)"
    alt="ngc6992 seen using Celestron RASA 8 and ZWO ASI183MC"
@@ -25,16 +25,8 @@ The Veil continues to balloon outward. Photos taken with the Hubble Space Telesc
 
 I had taken some images of the Veil last year but was not happy enough with them to share in this blog.  Now that the nights have become longer, and more importantly, less hazy I decided to take some considerably longer exposure images to capture more detail. This is one such result.
 
-<img src = "/images/Salmon.jpg"
-alt = "jumping salmon"
-align=left
-/>
+{{< image-wrap src="/images/Salmon.jpg" alt="jumping salmon" width="200px"  
+>}}
 (I have never seen anyone else say so, 
 but the Eastern Veil Nebula conjures in my mind the impression of a salmon that has jumped out of the water and  is about ready to fall back in.  The background Milky Way stars comprise the river.)
-
-
-
-
-
-
-
+{{< /image-wrap >}}

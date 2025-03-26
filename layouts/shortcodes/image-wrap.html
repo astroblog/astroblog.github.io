@@ -1,0 +1,20 @@
+<div style="overflow: auto;">
+    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" 
+    style="float: left; 
+    margin-right: 1rem; 
+    margin-bottom: -.5rem; 
+    margin-top: 0.6rem;
+    max-width: {{ .Get "width" | default "300px" }};">
+    <div>{{ .Inner }}</div>
+  </div>
+  
+<!--
+{{/*
+Usage:
+  {{< image-wrap src="/path/to/image.jpg" alt="Description of image" width="200px" >}}
+  This is the text that will wrap around the image. Once it reaches the bottom of the image, it will continue 
+  underneath, creating a natural flow around the image.
+  {{< /image-wrap >}} 
+*/}}
+-->
+  

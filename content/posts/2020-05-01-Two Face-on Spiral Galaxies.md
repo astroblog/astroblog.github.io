@@ -9,8 +9,8 @@ tags:
 ---
 
 
-<!--more-->
 M94 is a face-on spiral galaxy whose spiral arms hug the middle and wind very tightly into the core. It is sometimes called the Cat's Eye galaxy or the or Croc’s Eye Galaxy. It is about 16 million light years from the Earth. Around the brilliant circular disk is a ring of active star-forming regions, revealed in astrophotography as blue young star clusters. This artifact delineates it from the faded outer ring of an older yellowish stellar population. 
+<!--more-->
 
 {{< astroimage
    alt="m94 seen using Celestron RASA 8 and ZWO ASI183MC"

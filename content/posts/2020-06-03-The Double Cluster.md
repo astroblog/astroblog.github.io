@@ -9,8 +9,8 @@ tags:
 ---
 
 
-<!--more-->
 Two for the price of one! The Double Cluster consists of two open star clusters, known as H and Chi Persei (also called NGC 884 and 869).
+<!--more-->
 
 The Double Cluster rates among the most magnificent deep-sky objects that was not included in the famous Messier catalog. Of course, Charles Messier (1730-1817) was looking for deep-sky objects that could be mistaken for comets. He must have thought nobody would see this pair of glittery clusters as a comet in the sky.
 

@@ -7,8 +7,6 @@ tags:
 - ngc6357
 ---
   
-
-<!--more-->
 I don't think it will overly tax your imagination to see why NGC 6357 is nicknamed the Lobster Nebula. Or perhaps you think it  resemblances a crab more?
   
 <!--more-->

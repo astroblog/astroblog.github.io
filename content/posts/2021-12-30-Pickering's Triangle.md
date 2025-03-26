@@ -6,7 +6,7 @@ categories:
 ---
 
 The Veil Nebula is the wispy wreckage of a supernova that exploded some eight thousand years ago.  Here we see Pickering's Triangle, yet another portion of the Veil complex, which is located between the east and west portions that we saw previously.
-
+<!--more-->
 {{< astroimage
     title="Pickering's Triangle|(45 min total exposure Oct 31, 2021)"
     alt="ngc6960 seen using Celestron RASA 8 and ZWO ASI183MC"            

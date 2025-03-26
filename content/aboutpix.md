@@ -1,13 +1,7 @@
 ---
-title: "About Me "
-date: "2025-01-01"
+title: "About These Pictures "
+date: "2025-03-26"
 ---
-
-I am a retired computer programmer living in North Carolina, and a long-time astronomy buff. I started exploring the night sky as a teenager back in the 1950s after saving up my paper route money to buy a 4-inch reflecting telescope. ($49.95 was a lot of money in those days!) About six years ago I acquired an astro camera to use with my 30 year old 8-inch Meade SCT telescope -- this allowed me to dabble around with EAA (Electronically Assisted Astronomy). EAA usually involves computers as well as optical equipment, and being very much a computer person, such a combination is right down my alley.  I'm also an amateur radio operator (callsign K7JNX) and became re-enthused about that hobby 18 years ago when it became possible to marry my computer and my radio equipment together.
-
-In January 2020 I got a new 8-inch Celestron RASA scope and a better astro camera.  The new RASA is photographically very "fast" (f/2) and I am AMAZED at what I can see and photograph compared to visually observing through my old f/10 SCT telescope.
-
-I decided to set up this blog to let me share some examples of what I see with family and friends.
 
 ## About the Pictures on this Blog
 
@@ -34,8 +28,3 @@ EAA allows amateur astronomers to observe objects in less than ideal conditions,
 After I spent a couple of years exploring and sampling what the sky has to offer using EAA, I evolved into spending more and more time doing longer-exposure astrophotography.  Most of the images I've shared in the past couple of years have involved exposures between 30 and 90 minutes and then more extensive post-processing afterwards.  Some really impressive free software has recently come on the scene to facilitate final results, and learning to use it has been an ongoing endeavor.  I should mention Siril, Sirilic, Graxpert, Cosmic Clarity, Astrosharp and Affinity Photo in this regard.
 
 I'm truly living in the golden age of amateur astrophotography -- and still have a lot to learn!
-
-
-### If you have any questions or would like to share any comments, you can click here to email me: [howardgrams@yahoo.com](mailto:howardgrams@yahoo.com)
-
-Let me know if you'd like to be on the list to receive a short email notification whenever I add new entries to this blog.

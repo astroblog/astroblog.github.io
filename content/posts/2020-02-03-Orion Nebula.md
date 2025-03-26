@@ -9,8 +9,8 @@ tags:
 ---
 
 
-<!--more-->
 The Orion Nebula M42 is the most spectacular deep-sky object visible through almost any telescope.  Other than the moon, there is no other object in the night sky that reveals as much detail as M42.  It is visible to the naked eye as the fuzzy central star in Orion's sword.
+<!--more-->
 
 The Orion Nebula is an enormous cloud of gas and dust, one of many in our Milky Way galaxy. It lies roughly 1,300 light-years from Earth. At some 30 to 40 light-years in diameter, this great big nebulous cocoon is giving birth to perhaps a thousand stars. A young open star cluster, whose stars were born at the same time from a portion of the nebula and are still loosely bound by gravity, can be seen within the nebula. 
 
