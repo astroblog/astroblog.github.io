@@ -81,6 +81,7 @@
 
         <div class="article-content max-w-full mb-20">
             {{ .Content }}
+            {{ partial "smalldevice-invitation.html" }}
             {{ $defaultReplyByEmail := .Site.Params.replyByEmail }}
             {{ $replyByEmail := default $defaultReplyByEmail .Params.replyByEmail }}
             {{ if $replyByEmail }}

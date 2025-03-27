@@ -1,0 +1,30 @@
+<div id="small-screen-warning">
+  <hr>
+  <i><small>
+    Since the images in this blog are relatively large and contain a lot of detail,
+    if you are using a phone or a small tablet, you might want to consider returning 
+    sometime when you can use a computer with its larger screen.
+  </small></i>
+  <hr>
+</div>
+
+<style>
+  #small-screen-warning {
+    display: none;
+    text-align: center;
+  }
+  @media (max-width: 768px) {
+    /* Typical phones */
+    #small-screen-warning {
+      display: block;
+    }
+  }
+  @media (min-width: 769px) and (max-width: 1024px) {
+    /* Small tablets */
+    #small-screen-warning {
+      display: block;
+    }
+  }
+</style>
+
+  
