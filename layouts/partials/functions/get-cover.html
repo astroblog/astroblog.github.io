@@ -1,0 +1,43 @@
+{{ errorf "Custom get-cover.html is being used!" }}
+
+
+{{- /* Custom get-cover.html to allow .Params.thumbnail on list pages */ -}}
+{{- if and .Page.Params.thumbnail (eq .Type "card") -}}
+    {{- return (.Page.Params.thumbnail | absURL) -}}
+{{- end -}}
+
+{{- /* Fallback to original logic */ -}}
+{{- $images := .Page.Resources.ByType "image" -}}
+{{- $cover := $images.GetMatch "*cover*" -}}
+{{- if not $cover }}
+    {{ $cover = $images.GetMatch "*feature*" }}
+{{- end -}}
+{{- if not $cover }}
+    {{ $cover = $images.GetMatch "*thumbnail*" }}
+{{- end -}}
+
+{{- if not $cover }}
+    {{ with .Page.Params.featureimage }}
+        {{ $cover = resources.GetRemote . }}
+    {{ end }}
+{{- end -}}
+
+{{- if not $cover }}
+    {{ with .Page.Site.Params.defaultCoverImage }}
+        {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+            {{ $cover = resources.GetRemote . }}
+        {{ else }}
+            {{ $cover = resources.Get . }}
+        {{ end }}
+    {{ end }}
+{{- end -}}
+
+{{- if $cover }}
+    {{- if (eq .Type "card") }}
+        {{- with $cover.Fill "600x400 Center" }}
+            {{- return .RelPermalink -}}
+        {{- end -}}
+    {{- else }}
+        {{- return $cover -}}
+    {{- end }}
+{{- end -}}

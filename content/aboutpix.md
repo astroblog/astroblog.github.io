@@ -1,9 +1,7 @@
 ---
-title: "About These Pictures "
+title: "About the Pictures on this Blog"
 date: "2025-03-26"
 ---
-
-## About the Pictures on this Blog
 
 None of these pictures were taken using a large telescope or from a remote dark sky site. Instead, they are all taken from my light-polluted backyard surrounded by nearby street lights and neighbors' security lights.
 
