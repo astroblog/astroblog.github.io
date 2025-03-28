@@ -7,7 +7,7 @@ categories:
 tags:
 - ic410
 - ngc1893
-thumbnail: "/images/thumbs/Tadpole.png"
+thumbnail: "thumbs/Tadpole.png"
 ---
   
 The Tadpole Nebula (**IC 410**) gets its name from two striking tadpole-shaped clouds of dark dust that appear to be swimming towards the center.

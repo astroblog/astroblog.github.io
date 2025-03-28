@@ -11,7 +11,7 @@ title = "Suburban Backyard Astro Sights"
   dateFormat = "January 2, 2006"
   logo = "m51small.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "Sharing celestial wonders viewed from my backyard"
+  description = "Sharing celestial scenery viewed from my backyard"    # this one is not used 
   copyright = "All images and content on this website © { year } Howard Grams"
 
 # what this does is insert this author information at top of homepage
@@ -20,7 +20,7 @@ title = "Suburban Backyard Astro Sights"
    email = "hgastroblog@gmail.com"
 #  image = "img/blowfish_logo.png"
 #  imageQuality = 96
-  headline = "Sharing celestial wonders seen from my backyard"
+  headline = "Sharing celestial scenery viewed from my backyard"   # this is the one that is used
 #  bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hgastroblog@gmail.com" },

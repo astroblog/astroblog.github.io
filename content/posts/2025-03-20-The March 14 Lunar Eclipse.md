@@ -4,7 +4,7 @@ title: "The March 14 Lunar Eclipse"
 slideshow: true
 tags:
 - moon
-thumbnail: "/images/thumbs/Eclipse250314.png"
+thumbnail: "thumbs/Eclipse250314.png"
 ---
  
 {{< slideshow-assets >}}

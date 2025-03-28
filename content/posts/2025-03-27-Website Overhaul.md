@@ -2,10 +2,10 @@
 date: 2025-03-27
 title: "Website Overhaul"
 draft: false
-thumbnail: "/images/thumbs/menatwork.png"
+thumbnail: "thumbs/menatwork.png"
 ---
 
-It's been three years since I last overhauled this website.  Here we go again with a significant makeover,
+It's been three years since I last overhauled this website.  So here we go with a fresh makeover,
 <!--more-->
 Among the many changes are:
 - A new, shorter url address https://hgastro.github.io (the old url will still work and any requests sent there will be redirected to the new location)
@@ -14,6 +14,6 @@ Among the many changes are:
     - can be used without complication on phones or tablets as well as on full-size computer screens
 - You can switch between normal mode and dark mode, triggered by the sun/moon icons in the top header
 - There is a search facility, triggered by the magnifying glass in the top header
-- You will notice background images on the home page and on the post pages
+- You will notice blurred background images on the home page and on the post pages
 - The underlying website architecture has changed (from Jekyll to Hugo). This allows these new features in addition to making the site easier to maintain.
 
