@@ -5,7 +5,7 @@ draft: false
 thumbnail: "/images/thumbs/menatwork.png"
 ---
 
-It's been three years since I last overhauled this website.  Here we go again with a significantly makeover,
+It's been three years since I last overhauled this website.  Here we go again with a significant makeover,
 <!--more-->
 Among the many changes are:
 - A new, shorter url address https://hgastro.github.io (the old url will still work and any requests sent there will be redirected to the new location)
