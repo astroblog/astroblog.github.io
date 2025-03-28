@@ -19,11 +19,25 @@
 
   /* Make this the font for everything and increase the default font size from default of 12pt*/
   /* Even though Lora is a serif font, I want the second choice to be generic cursive. I think this is ok */
-html {
-  font-family: 'Lora', cursive !important; 
-  font-size: 16pt;
-  color: black;
-}
+  html {
+    font-family: 'Lora', cursive !important;
+    font-size: 16pt;
+    color: black;
+  }
+  
+  /* Reduce font size on smaller screens */
+  @media (max-width: 768px) {  /* Tablets and smaller */
+    html {
+      font-size: 14pt;
+    }
+  }
+  
+  @media (max-width: 480px) {  /* Phones */
+    html {
+      font-size: 12pt;
+    }
+  }
+  
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lora', cursive !important; 
