@@ -20,8 +20,10 @@
           </div>
       </div>
       {{ else }}
-      <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-           href="{{ .RelPermalink }}">{{ .Title | emojify }}</div>
+      <a href="{{ .RelPermalink }}" class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">
+        {{ .Title | emojify }}
+    </a>
+    
       {{ end }}
 
       <!-- Summary Section -->
