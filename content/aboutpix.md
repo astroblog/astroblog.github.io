@@ -23,6 +23,6 @@ EAA allows amateur astronomers to observe objects in less than ideal conditions,
 
 ## About Astrophotography
 
-After I spent a couple of years exploring and sampling what the sky has to offer using EAA, I evolved into spending more and more time doing longer-exposure astrophotography.  Most of the images I've shared in the past couple of years have involved exposures between 30 and 90 minutes and then more extensive post-processing afterwards.  Some really impressive free software has recently come on the scene to facilitate final results, and learning to use it has been an ongoing endeavor.  I should mention Siril, Sirilic, Graxpert, Cosmic Clarity, Astrosharp and Affinity Photo in this regard.
+After I spent a couple of years using EAA to explore and sample what the sky has to offer, my interests evolved into spending more and more time doing longer-exposure astrophotography.  Most of the images I've shared in the past couple of years have involved total exposures between 30 and 90 minutes and then more extensive post-processing afterwards.  Some really impressive free software has recently come on the scene to facilitate final results, and learning to use it has been an ongoing endeavor.  I should mention Siril, Sirilic, Graxpert, Cosmic Clarity, Astrosharp and Affinity Photo in this regard.
 
 I'm truly living in the golden age of amateur astrophotography -- and still have a lot to learn!
