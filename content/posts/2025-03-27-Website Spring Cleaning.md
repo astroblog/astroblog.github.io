@@ -1,6 +1,6 @@
 ---
 date: 2025-03-27
-title: "Website Overhaul"
+title: "Website Spring Cleaning"
 draft: false
 thumbnail: "thumbs/menatwork.png"
 ---
