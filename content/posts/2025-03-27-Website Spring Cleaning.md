@@ -8,7 +8,7 @@ thumbnail: "thumbs/menatwork.png"
 It's been three years since I last overhauled this website.  So here we go with a fresh makeover,
 <!--more-->
 Among the many changes are:
-- We have a new shorter url address https://hgastro.github.io -- (the old url will still work and any requests sent there will be redirected to the new location).
+- We have a new shorter url address https://astroblog.github.io -- (the old url will still work and any requests sent there will be redirected to the new location).
 - The fullscreen image experience is significantly improved
     - one click/tap on the button to enter fullscreen mode, and one click/tap on the fullscreen image to return to normal mode
     - can be used without complication on phones or tablets, although the full experience requires a full-size computer screen
