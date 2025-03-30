@@ -21,20 +21,20 @@
   /* Even though Lora is a serif font, I want the second choice to be generic cursive. I think this is ok */
   html {
     font-family: 'Lora', cursive !important;
-    font-size: 16pt;
+    font-size: 15pt;
     color: black;
   }
   
   /* Reduce font size on smaller screens */
   @media (max-width: 768px) {  /* Tablets and smaller */
     html {
-      font-size: 14pt;
+      font-size: 13pt;
     }
   }
   
   @media (max-width: 480px) {  /* Phones */
     html {
-      font-size: 12pt;
+      font-size: 11pt;
     }
   }
   
