@@ -25,6 +25,6 @@ The dark Cone Nebula forms a rather strange ornament on the top of the tree.
 
 The cluster, including its associated bright and dark nebulosity is located about 2600 light years away, meaning that the light we see now was produced well before the time of Christ whose birth we celebrate today.
 
-You may recall that I previously shared a look at the [Christmas Tree 
-Cluster]({% post_url 2020-03-03-Christmas Tree Cluster %} )
+You may recall that I previously shared a look at the 
+{{< postlink "Christmas Tree Cluster" "2020-03-03-Christmas Tree Cluster" >}}
 (click the link to see it).  Today's image is a longer exposure that better reveals the dark Cone Nebula as well as more of the bright nebulosity.
