@@ -3,7 +3,7 @@
     {{ with .Params.thumbnail }}
   {{ $thumb := resources.Get . }}
   {{ with $thumb }}
-    {{ $resized := .Fill "152x176 smart" }}  <!-- Resizes width to 150px, keeping aspect ratio - also consider .Fill "150x150 smart"-->
+    {{ $resized := .Fill "152x176 smart" }}  <!-- Resizes width to 152px, keeping aspect ratio - also consider .Fill "150x150 smart"-->
     <a href="{{ $.RelPermalink }}" style="margin-right: 0.6rem;" 
     class="mr-4 block w-16 sm:w-32 md:w-32 lg:w-38">
      <img class="w-full h-auto object-cover" src="{{ $resized.RelPermalink }}" alt="Thumbnail for {{ $.Title }}">

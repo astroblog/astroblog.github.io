@@ -1,5 +1,5 @@
 ---
-date: 2025-03-27
+date: 2025-03-30
 title: "Website Spring Cleaning"
 draft: false
 thumbnail: "thumbs/menatwork.png"
