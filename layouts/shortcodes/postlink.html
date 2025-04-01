@@ -1,1 +1,2 @@
+<!-- A normal shortcode emits html, not markdown.  Using markdownify overrides that -->
 {{ printf "[%s](%s)" (.Get 0) (relref .Page (.Get 1)) | markdownify }}
