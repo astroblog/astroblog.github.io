@@ -1,0 +1,2 @@
+# move this to config/production/hugo.toml so it will only get included for production builds
+googleAnalytics = "G-P9LXVF136L"

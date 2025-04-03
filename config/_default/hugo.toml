@@ -16,7 +16,8 @@ buildFuture = false
 
 enableEmoji = true
 
-googleAnalytics = "G-P9LXVF136L"
+# move this to config/production/hugo.toml so it will only get included for production builds
+#googleAnalytics = "G-P9LXVF136L"
 
 [params.article]
 showComments = true   # include contents partial after article footer
