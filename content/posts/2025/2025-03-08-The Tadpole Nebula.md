@@ -26,9 +26,8 @@ title="IC 410 and NGC 1893|(109 min total exposure Mar 1, 2025)"
 >}}
 <br>
 <br>
-
    
-## A few more Tadpole Nebula factoids
+## More Tadpole Nebula trivia
 
 - The star cluster **NGC 1893** was discovered in 1827, but the much fainter **IC 410** nebula went unnoticed until it was revealed in photographs taken in 1892.
 - The nebula spans approximately **100 light-years** across and is composed of ionized hydrogen gas, glowing as it absorbs energy from nearby stars.
