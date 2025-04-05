@@ -10,7 +10,7 @@ Originally I used an iOptron AZ Mount Pro alt-azimuth mount, but in 2023 I start
 Image acquisition is 
 controlled using software programs Sharpcap or NINA.
 
-I principally process the raw images originally using a program named Startools and later one named Siril. The earliest images I show on this blog are formed from multiple  short exposures (typically 3 seconds) stacked together to reach a total exposure of between 3 and 30 minutes. My more recent blog posts show images taken with longer total exposures, typically 30 to 90 minute stacks of 20 second exposures.
+Nowadays the main program I use to process the raw images from the camera is Siril. (The earlier blog posts were mostly using a program named Startools.) The earliest images I show on this blog were formed from multiple  short exposures (typically 3 seconds) stacked together to reach a total exposure of between 3 and 30 minutes. The more recent blog posts show images taken with longer total exposures, typically multiple 20 second exposures stacked together to reach a total exposure of 45-120 minutes.
 
 A mini computer rides on my telescope to control the telescope and camera and it communicates with my main computer inside the house.  I can see a detailed image in real time on my main computer screen (inside the house and away from the mosquitos or cold) and can watch the results improve as multiple exposures are taken and stacked together to produce a better image with less noise. And I can aim and focus the telescope remotely from the comfort of my study.
 
@@ -23,6 +23,6 @@ EAA allows amateur astronomers to observe objects in less than ideal conditions,
 
 ## About Astrophotography
 
-After I spent a couple of years using EAA to explore and sample what the sky has to offer, my interests evolved into spending more and more time doing longer-exposure astrophotography.  Most of the images I've shared in the past couple of years have involved total exposures between 30 and 90 minutes and then more extensive post-processing afterwards.  Some really impressive free software has recently come on the scene to facilitate final results, and learning to use it has been an ongoing endeavor.  I should mention Siril, Sirilic, Graxpert, Cosmic Clarity, Astrosharp and Affinity Photo in this regard.
+After I spent a couple of years using EAA to explore and sample what the sky has to offer, my interests evolved into spending more and more time doing longer-exposure astrophotography.  Most of the images I've shared in the past couple of years have involved total exposures between 30 and 90 minutes and then more extensive post-processing afterwards.  Some really impressive free software has recently come on the scene to facilitate final results, and learning to use it has been an ongoing endeavor.  I should mention Siril, Sirilic, Graxpert, Cosmic Clarity, Astrosharp, SetiAstro and Affinity Photo in this regard.
 
 I'm truly living in the golden age of amateur astrophotography -- and still have a lot to learn!

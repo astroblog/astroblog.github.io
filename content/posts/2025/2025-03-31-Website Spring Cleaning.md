@@ -17,5 +17,6 @@ Among the many changes are:
 - You will notice blurred background images on the home page and on the post pages
 - The underlying website architecture has changed (from Jekyll to Hugo), allowing new features in addition to making the site easier to maintain.
 
-I would appreciate it if you would email me if you notice something that seems not to be working properly after this overhaul.
+I would appreciate it if you would email me if you notice something that seems not to be working properly after this overhaul
+or if you have any other comments (positive or negative) about the makeover.
 

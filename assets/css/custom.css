@@ -34,7 +34,7 @@
   
   @media (max-width: 480px) {  /* Phones */
     html {
-      font-size: 11pt;
+      font-size: 12pt;
     }
   }
   
@@ -88,3 +88,43 @@ h1, h2, h3, h4, h5, h6 {
     opacity: 0.2;
     z-index: -1;
 }
+
+/* N.B. apparently hugo or blowfish has its own thumbnail, so I had to change to hgthumbnail */
+/* I probably should get rid of the !important in all of these  */
+.hgthumbnail {
+  width: 90px !important; /* Default size for smallest screens */
+  height: auto !important;
+}
+@media (min-width: 640px) {  /* Tailwind's sm */
+  .hgthumbnail {
+    width: 120px !important;
+  }
+}
+@media (min-width: 1024px) { /* Tailwind's lg */
+  .hgthumbnail {
+    width: 152px !important;
+  }
+}
+/* For reasons I don't understand, this appears to be getting scaled for smaller screens without my
+   specifying anything e.g. 
+
+   @media (min-width: 640px) { 
+  .hgthumbnail {
+      width: 70px !important;
+  }
+}
+
+@media (min-width: 768px) { 
+  .hgthumbnail {
+      width: 120px !important;
+  }
+}
+
+@media (min-width: 1200px) { 
+  .hgthumbnail {
+      width: 152px !important; 
+  }
+}
+
+ 
+*/

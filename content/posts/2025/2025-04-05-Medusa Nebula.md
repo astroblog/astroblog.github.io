@@ -6,7 +6,7 @@ categories:
 tags:
 - sh2-274
 thumbnail: "thumbs/MedusaNebula.png"
-draft: true
+draft: false
 ---
 The Medusa Nebula is an intricate ghostly structure with tendrils of gas stretching like the serpentine hair of its namesake from Greek mythology. 
 The Gorgon Medusa was a monstrous creature with living snakes in place of hair, and was known for her ability to turn anyone who looked at her into stone. 
