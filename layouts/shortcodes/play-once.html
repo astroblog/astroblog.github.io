@@ -1,0 +1,60 @@
+{{ $src := .Get "src" }}
+{{ $poster := .Get "poster" }}
+{{ $caption := .Get "caption" | default "Click to play" }}
+{{ $max_width := .Get "max_width" | default "600px" }}
+{{ $uuid := delimit (slice "vid" (now.UnixNano)) "" }}
+
+<div id="container-{{ $uuid }}" style="margin: 2rem auto; text-align: center; max-width: {{ $max_width | safeCSS }};">
+    
+    <div class="video-wrapper" 
+         onclick="startVideo('{{ $uuid }}')" 
+         style="position: relative; display: inline-block; cursor: pointer; background-color: #000; border-radius: 8px; overflow: hidden;">
+        
+        <video 
+            id="{{ $uuid }}" 
+            poster="{{ $poster | absURL }}" 
+            preload="none"
+            style="display: block; max-width: 100%; height: auto;">
+            <source src="{{ $src | absURL }}" type="video/mp4">
+        </video>
+
+        <div id="button-{{ $uuid }}" 
+             style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 70px; height: 70px; background: rgba(0, 0, 0, 0.6); border-radius: 50%; display: flex; align-items: center; justify-content: center; transition: opacity 0.3s ease; pointer-events: none;">
+            <div style="width: 0; height: 0; border-top: 15px solid transparent; border-bottom: 15px solid transparent; border-left: 25px solid white; margin-left: 5px;"></div>
+        </div>
+    </div>
+
+    <p style="font-size: 0.9rem; color: black; margin-top: 0.5rem; font-style: italic; background-color: #cdcdcd; border-radius: 10px; ">
+        {{ $caption }}
+    </p>
+</div>
+
+<script>
+    function startVideo(id) {
+        var video = document.getElementById(id);
+        var btn = document.getElementById('button-' + id);
+        
+        // Fullscreen request
+        var requestMethod = video.requestFullscreen || video.webkitRequestFullscreen || video.mozRequestFullScreen || video.msRequestFullscreen;
+        if (requestMethod) {
+            requestMethod.call(video);
+        }
+
+        video.play();
+        btn.style.opacity = "0"; // Hide play button
+    }
+
+    (function() {
+        var video = document.getElementById('{{ $uuid }}');
+        var btn = document.getElementById('button-{{ $uuid }}');
+        
+        video.onended = function() {
+            if (document.fullscreenElement || document.webkitFullscreenElement) {
+                if (document.exitFullscreen) { document.exitFullscreen(); }
+                else if (document.webkitExitFullscreen) { document.webkitExitFullscreen(); }
+            }
+            video.load(); // Reset to poster
+            btn.style.opacity = "1"; // Show play button again
+        };
+    })();
+</script>
