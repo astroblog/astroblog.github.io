@@ -49,6 +49,14 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 2rem;
   }
 
+
+/* Use Lora throughout the Blowfish site header */
+/* header,
+header *:not(svg):not(path) {
+    font-family: 'Lora', cursive !important;
+} */
+
+
   /* I don't like the nearly invisible horizontal rules, so I force them black here
      or white if user switches to dark theme. */
 /* Default (light theme) */
@@ -76,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
    standard blowfish mechanisms.  This required a modification to layouts/_default/baseof.html to
    inject the type of page (posts) into <body class=
 */
-.posts::before {
+/* .posts::before {
     content: "";
     position: fixed;
     top: 0;
@@ -87,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {
     filter: blur(0.5px);
     opacity: 0.2;
     z-index: -1;
-}
+} */
 
 /* N.B. apparently hugo or blowfish has its own thumbnail, so I had to change to hgthumbnail */
 /* I probably should get rid of the !important in all of these  */
@@ -128,3 +136,35 @@ h1, h2, h3, h4, h5, h6 {
 
  
 */
+
+
+/* Keep the thumbnail wrapper square and prevent it from stretching */
+.article-link--simple .thumbnail {
+  position: relative;
+  display: block;
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  min-height: 0;
+  aspect-ratio: auto;
+  overflow: hidden;
+  margin-right: 12px;
+}
+
+@media (min-width: 640px) {
+  .article-link--simple .thumbnail {
+    flex-basis: 120px !important;
+    width: 120px !important;
+    height: 120px !important;
+    margin-right: 12px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .article-link--simple .thumbnail {
+    flex-basis: 152px !important;
+    width: 152px !important;
+    height: 152px !important;
+    margin-right: 16px;
+  }
+}

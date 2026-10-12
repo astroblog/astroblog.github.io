@@ -25,9 +25,18 @@ article:
   part: "Part"
   this_article: "This Article"
   related_articles: "Related"
+  reply_by_email: "Send me comments or questions via Email"
+  reply_to: "Reply to {{ .Title }}"
   zen_mode_title:
     enable: "Enable zen mode"
     disable: "Disable zen mode"
+
+a11y:
+  title: "Accessibility settings"
+  disable_blur: "Disable blur"
+  disable_images: "Disable background image"
+  show_link_underline: "Show link underline"
+  font_size: "Font size"
 
 author:
   byline_title: "Author"
@@ -40,28 +49,35 @@ error:
   404_title: "Page Not Found :confused:"
   404_error: "Error 404"
   404_description: "It seems that the page you've requested does not exist."
+  404_home: "Take me home"
 
 footer:
   dark_appearance: "Switch to dark appearance"
   light_appearance: "Switch to light appearance"
-  powered_by: "Website powered by {{ .Hugo }}/{{ .Theme }}"
+  powered_by: "Website powered by {{ .Hugo }} &amp; {{ .Theme }}"
 
 list:
   externalurl_title: "Link to external site"
   no_articles: "There are no articles to list here yet."
 
 nav:
+  close_menu: "Close menu"
+  footer_menu: "Footer menu"
+  main_menu: "Main menu"
+  mobile_menu: "Mobile menu"
   scroll_to_top_title: "Scroll to top"
   skip_to_main: "Skip to main content"
+  toggle_submenu: "Toggle submenu"
 
 search:
-  open_button_title: "Search (/)"
+  open_button_title: "Search (/ or ⌘K)"
   close_button_title: "Close (Esc)"
   input_placeholder: "Search"
 
 sharing:
   email: "Send via email"
   facebook: "Share on Facebook"
+  line: "Share on LINE"
   linkedin: "Share on LinkedIn"
   pinterest: "Pin on Pinterest"
   reddit: "Submit to Reddit"
@@ -69,9 +85,27 @@ sharing:
   bluesky: "Post on Bluesky"
   whatsapp: "Share via WhatsApp"
   telegram: "Share via Telegram"
+  mastodon: "Share via Mastodon"
 
 shortcode:
-  recent_articles: "Newest Posts:"
+  recent_articles: "Newest Posts"
 
 recent:
   show_more: "Show More"
+
+admonition:
+  abstract: "Abstract"
+  bug: "Bug"
+  caution: "Caution"
+  danger: "Danger"
+  example: "Example"
+  failure: "Failure"
+  important: "Important"
+  info: "Info"
+  note: "Note"
+  question: "Question"
+  quote: "Quote"
+  success: "Success"
+  tip: "Tip"
+  todo: "Todo"
+  warning: "Warning"

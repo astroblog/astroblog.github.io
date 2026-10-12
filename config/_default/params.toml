@@ -8,7 +8,9 @@ disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
-defaultBackgroundImage = "ic410background"
+defaultBackgroundImage = "m9+b64_2022-08-12T22_07_40_Stack_16bits_203frames_1218s_bin25pc.jpg"   # lives in assets
+# 2. Tell Blowfish v3 to paint this image as a full-viewport fixed backdrop globally
+backgroundCanvas = true
 #defaultFeaturedImage = "avatar.jpg"  #if this is set, it is used on homepage as feature image for each article, 
 #                                      but is NOT used as background image on article page
 disableImageZoom = true  # the default is false, which enables user to click on any image to zoom it
@@ -36,20 +38,22 @@ showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
-homepageImage = "ic410background.jpg"
+homepageImage = "ic410background.jpg"   
 
 [article]
+showHero = false
+layoutBackgroundBlur = true
+#layoutBackgroundBlurStyle = "classic" # Keeps a beautifully blurred panel fixed behind the whole page
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = false
 showDate = true
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
-showHero = false
-heroStyle = "background"
-layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = false
-showBreadcrumbs = false
+#heroStyle = "background"
+#defaultHeroImage = "" 
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
