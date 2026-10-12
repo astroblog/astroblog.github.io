@@ -1,5 +1,5 @@
 ------
-date: 2025-12-31
+date: 2026-12-31
 title: "Into the Rosette Nebula"
 categories:
 - "open cluster"
@@ -7,7 +7,6 @@ categories:
 tags:
 - ngc2237
 - ngc2244
-thumbnail: "thumbs/ngc2244-thumb.png"
 draft: true
 ---
 The Rosette Nebula is one of the more spectacular nebulae in the night sky. It is a huge cloud of glowing gas heated and ionized by stars created only about five million years ago when a giant molecular cloud collapsed to form a new cluster of stars.
@@ -20,12 +19,12 @@ The nebula is known as NGC 2237 while the star cluster at its center is NGC 2244
 {{< astroimage
 title="The Rosette Nebula|(88 min total exposure Dec 17, 2025)"
    alt="Rosette Nebula seen using Celestron RASA 8 and ZWO ASI183MC"
-   img="/images/ngc2244_2025-12-17T06_58_02_NinaSirLDFdF(175x30s=88m)_graxPCC_CCsdn+hms+starnet+af+hdrcurve2.jpg"
+   img="ngc2244_2025-12-17T06_58_02_NinaSirLDFdF(175x30s=88m)_graxPCC_CCsdn+hms+starnet+af+hdrcurve2.jpg"
    fsbutton="true"
 >}}
 
 
-{{< play-once src="/images/ngc2244-B.mp4" poster="/images/ngc2244-thumb.png" caption="Click this start button to zoom in for a closer look. . ." >}}
+{{< play-once src="ngc2244-B.mp4" poster="/images/ngc2244-thumb.png" caption="Click this start button to zoom in for a closer look. . ." >}}
 
 There's a lot going on in the heart of the Rosette.
 One cannot help but notice dense pockets and tendrils of dust that create striking dark silhouettes.  In contrast there is space in the center
@@ -34,7 +33,7 @@ where the material has been blown away by radiation from the hot bright cluster 
 {{< astroimage
 title="The Heart of the Rosette Nebula|(88 min total exposure Dec 17, 2025)"
    alt="Heart of Rosette Nebula seen using Celestron RASA 8 and ZWO ASI183MC"
-   img="/images/ngc2244_2025-12-17T06_58_02_NinaSirLDFdF(175x30s=88m)_graxPCC_CCsdn+hms+starnet+af+hdrcurve2_closeup.jpg"
+   img="ngc2244_2025-12-17T06_58_02_NinaSirLDFdF(175x30s=88m)_graxPCC_CCsdn+hms+starnet+af+hdrcurve2_closeup.jpg"
    fsbutton="true"
 >}}
  
