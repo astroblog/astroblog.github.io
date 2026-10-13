@@ -63,7 +63,7 @@ They lie in the Milky Way's outer regions, in a part of the sky rich in star-for
    - Discovered by Englishman William Herschel on February 4, 1793.
 
 ## Imaging Details
-Celestron RASA 8 telescope, ZWO ASI183MC camera, 439 × 30-second exposures stacked together to give 220 minutes of total integration time, captured October 8, 2026. Processed using Siril, Syqon and Affinity software.
+Celestron RASA 8 telescope, ZWO ASI183MC camera, 439 × 30-second exposures stacked together to give 220 minutes of total integration time, captured October 8, 2026 under Bortle 6 skies. Processed using Siril, Syqon and Affinity software.
 The close-up images are crops of the full image and show the full resolution captured by the camera.
 (This 3.7-hour exposure is longest I have taken and published up to now -- longer exposures capture more detail.)
 

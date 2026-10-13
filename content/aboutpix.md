@@ -1,6 +1,6 @@
 ---
 title: "About the Pictures on this Blog"
-date: "2025-03-26"
+date: "2026-10-12"
 ---
 
 None of these pictures were taken using a large telescope or from a remote dark sky site. Instead, they are all taken from my light-polluted backyard surrounded by nearby street lights and neighbors' security lights.
@@ -23,6 +23,6 @@ EAA allows amateur astronomers to observe objects in less than ideal conditions,
 
 ## About Astrophotography
 
-After I spent a couple of years using EAA to explore and sample what the sky has to offer, my interests evolved into spending more and more time doing longer-exposure astrophotography.  Most of the images I've shared in the past couple of years have involved total exposures between 30 and 90 minutes and then more extensive post-processing afterwards.  Some really impressive free software has recently come on the scene to facilitate final results, and learning to use it has been an ongoing endeavor.  I should mention Siril, Sirilic, Graxpert, Cosmic Clarity, Astrosharp, SetiAstro and Affinity Photo in this regard.
+After I spent a couple of years using EAA to explore and sample what the sky has to offer, my interests evolved into spending more and more time doing longer-exposure astrophotography.  Most of the images I've shared in the past couple of years have involved total exposures between 30 and 90 minutes and then more extensive post-processing afterwards.  Some really impressive free software has recently come on the scene to facilitate final results, and learning to use it has been an ongoing endeavor.  I should mention Siril, Sirilic, Graxpert, Cosmic Clarity, Astrosharp, SetiAstro, Syqon and Affinity in this regard.
 
 I'm truly living in the golden age of amateur astrophotography -- and still have a lot to learn!
