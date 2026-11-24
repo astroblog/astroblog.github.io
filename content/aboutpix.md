@@ -8,7 +8,7 @@ None of these pictures were taken using a large telescope or from a remote dark 
 Unless otherwise mentioned, all these images were taken using my Celestron RASA 8-inch astrograph (telescope) and a ZWO ASI183MC one-shot color camera.
 Originally I used an iOptron AZ Mount Pro alt-azimuth mount, but in 2023 I started using an iOptron HAE29ec equatorial mount.
 Image acquisition is 
-controlled using software programs Sharpcap or NINA.
+controlled using software programs NINA or Sharpcap.
 
 Nowadays the main program I use to process the raw images from the camera is Siril. (The earlier blog posts were mostly using a program named Startools.) The earliest images I show on this blog were formed from multiple  short exposures (typically 3 seconds) stacked together to reach a total exposure of between 3 and 30 minutes. The more recent blog posts show images taken with longer total exposures, typically multiple 20 second exposures stacked together to reach a total exposure of 45-120 minutes.
 
