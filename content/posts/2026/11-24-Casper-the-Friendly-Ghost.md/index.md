@@ -37,7 +37,7 @@ Nearby, Bernes 100 is a fascinating object that remains largely unstudied by pro
 - **Distance:** All of these nebulae are roughly 1,350 light-years away, so the light my camera captured was emitted in the middle of the Dark Ages.
 - **How bright:** M78 is visible as a faint smudge of light in binoculars and small telescopes, though it is too dim for the unaided eye.
 - **Where to find it:** It is located in the constellation Orion (the Hunter).
-- **Discovery:** M78 was discovered by Pierre Méchain in 1780 and cataloged by Charles Messier that same year. NGC 2071 was discovered on January 1, 1784, by William Herschel.
+- **Discovery:** M78 was discovered by Pierre Méchain in 1780 and cataloged by Charles Messier that same year. NGC 2071 was discovered by William Herschel in 1784.
 
 ## Pareidolia
 
